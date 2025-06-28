@@ -1,0 +1,1483 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#
+#-------------------------------
+#-------------------------------GRINDMACHINES
+#-------------------------------
+[GRINDMACHINE, Grindy, 1]
+LoseText = You did it! You're the best.
+Pokemon = AUDINO, 15
+    Moves = MEMENTO
+    AbilityIndex = 0
+    Gender = female
+[GRINDMACHINE, Grindy, 2]
+LoseText = You did it! You're the best.
+Pokemon = AUDINO, 20
+    Moves = MEMENTO
+    AbilityIndex = 0
+    Gender = female
+[GRINDMACHINE, Grindy, 3]
+LoseText = You did it! You're the best.
+Pokemon = AUDINO, 25
+    Moves = MEMENTO
+    AbilityIndex = 0
+    Gender = female
+#-------------------------------
+#-------------------------------BRIAN'S LAB	
+#-------------------------------
+[PROFESSOR_Brian,Brian,1]
+Items = FULLRESTORE
+LoseText = You've passed the test.
+Pokemon = FORRETRESS,45
+    Moves = SPIKES,RAPIDSPIN,TOXIC,INFESTATION
+    AbilityIndex = 0
+    Gender = male
+	Shiny = yes
+	Item = ROCKYHELMET
+	IVS = 31,31,31,31,31,31
+	EVS = 200,0,56,0,0,252
+Pokemon = KABUTOPS,46
+    Moves = SWORDSDANCE,RAZORSHELL,ANCIENTPOWER,MAGNITUDE
+    AbilityIndex = 2
+    Gender = female
+	Item = RINDOBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,100,0,156,0
+Pokemon = GALLADE,47
+    Moves = PSYCHOCUT,FIREPUNCH,DRAINPUNCH,BULKUP
+    AbilityIndex = 0
+    Gender = male
+	Item = RAZORCLAW
+	IVS = 31,31,31,31,31,31
+	EVS = 100,200,0,152,56,0
+Pokemon = METAGROSS,48
+    Moves = AGILITY,IRONHEAD,PSYCHIC,THUNDERPUNCH
+    AbilityIndex = 0
+    Gender = male
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,120,0,0,136
+#-------------------------------
+[RESEARCHER_Jake,Jake,1]
+Items = LEMONADE,LEMONADE
+LoseText = Most impressive.
+Pokemon = OMASTAR,45
+    Moves = SPIKES,BRINE,ANCIENTPOWER,ICEBEAM
+    AbilityIndex = 0
+    Gender = female
+	Item = RINDOBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,100,0,156,0
+Pokemon = YANMEGA,46
+    Moves = SILVERWIND,AIRCUTTER,ANCIENTPOWER,GIGADRAIN
+    AbilityIndex = 0
+    Gender = male
+	Item = ASSAULTVEST
+	IVS = 31,31,31,31,31,31
+	EVS = 200,0,0,0,252,56
+Pokemon = ARCHEOPS,47
+    Moves = ACROBATICS,ANCIENTPOWER,MAGNITUDE,SKYATTACK
+    AbilityIndex = 0
+    Gender = male
+	Item = POWERHERB
+	IVS = 31,31,31,31,31,31
+	EVS = 100,200,0,152,56,0
+Pokemon = LAPRAS,48
+    Moves = FREEZEDRY,BRINE,RAINDANCE,REST
+    AbilityIndex = 2
+    Gender = female
+	Item = DAMPROCK
+	IVS = 31,31,31,31,31,31
+	EVS = 52,0,200,0,56,200
+#-------------------------------
+[RESEARCHER_Julien,Julien,1]
+Items = SUPERPOTION, SUPERPOTION, SUPERPOTION
+LoseText = Most impressive.
+Pokemon = TORCHIC,45
+    Moves = WORKUP,SUBSTITUTE,BATONPASS,FLAMECHARGE
+    AbilityIndex = 2
+    Gender = male
+	Item = EVIOLITE
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,100,0,156,0
+Pokemon = FARFETCHD,46
+    Moves = AIRCUTTER,SUBSTITUTE,SLASH,LASTRESORT
+    AbilityIndex = 1
+    Gender = male
+	Item = RAZORCLAW
+	IVS = 31,31,31,31,31,31
+	EVS = 252,28,100,0,28,100
+Pokemon = TENTACRUEL,47
+    Moves = WHIRLPOOL,DIVE,SLUDGEBOMB,SUBSTITUTE
+    AbilityIndex = 1
+    Gender = female
+	Item = BLACKSLUDGE
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,200,0,0,56	
+Pokemon = SYLVEON,48
+    Moves = SWIFT,WISH,SUBSTITUTE,REFLECT
+    AbilityIndex = 2
+    Gender = female
+	Item = PETAYABERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,100,0,156,0
+#-------------------------------
+[RESEARCHER_Mila,Mila,1]
+Items = XSPATK2, FULLHEAL
+LoseText = Poggers.
+Pokemon = CRUSTLE,45
+    Moves = SHELLSMASH,ROCKBLAST,XSCISSOR,FLAIL
+    AbilityIndex = 0
+    Gender = male
+	Item = WEAKNESSPOLICY
+	IVS = 31,31,31,31,31,31
+	EVS = 4,252,0,252,0,0
+Pokemon = NINETALES,46
+    Moves = WILLOWISP,HEX,MYSTICALFIRE,PAINSPLIT
+    AbilityIndex = 2
+    Gender = female
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 56,0,0,200,252,0
+Pokemon = ESPEON,47
+    Moves = CALMMIND,BATONPASS,STOREDPOWER,HYPERVOICE
+    AbilityIndex = 2
+    Gender = female
+	Item = GANLONBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 200,0,100,152,56,0
+Pokemon = AMPHAROS,48
+    Moves = THUNDERBOLT,SIGNALBEAM,DRAGONPULSE,COTTONGUARD
+    AbilityIndex = 0
+    Gender = female
+	Item = AIRBALLOON
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,0,100,156
+#-------------------------------
+[RESEARCHER_Max,Max,3]
+Items = XSPEED2, HYPERPOTION
+LoseText = *Lego Yoda death sound*
+Pokemon = DELCATTY,45
+    Moves = FIREPUNCH,POWERUPPUNCH,BATONPASS,SING
+	Gender = male
+	Shiny = yes
+    AbilityIndex = 0
+	Item = LUMINOUSMOSS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,200,0,56
+Pokemon = MACHAMP,46
+    Moves = THUNDERPUNCH,POWERUPPUNCH,FIREPUNCH,BULKUP
+	Gender = male
+    AbilityIndex = 0
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 156,100,0,0,0,252
+Pokemon = AGGRON,47
+    Moves = THUNDERPUNCH,POWERUPPUNCH,FIREPUNCH,ROCKSMASH
+	Gender = male
+    AbilityIndex = 0
+	Item = ASSAULTVEST
+	IVS = 31,31,31,31,31,31
+	EVS = 156,100,0,0,0,252
+Pokemon = CROBAT,48
+    Moves = CONFUSERAY,THUNDERPUNCH,GIGADRAIN,POWERUPPUNCH
+	Gender = female
+    AbilityIndex = 1
+	Item = WEAKNESSPOLICY
+	IVS = 31,31,31,31,31,31
+	EVS = 128,128,0,128,128,0
+#-------------------------------
+[RESEARCHER_Soon,Soon,3]
+Items = SODAPOP,SODAPOP,SODAPOP,FULLHEAL
+LoseText = Back to being unlucky.
+Pokemon = ARIADOS,45
+    Moves = PINMISSILE,TOXICSPIKES,STICKYWEB,SUCKERPUNCH
+	Gender = female
+	Shiny = yes
+    AbilityIndex = 2
+	Item = BRIGHTPOWDER
+	IVS = 31,31,31,31,31,31
+	EVS = 100,128,0,156,128,0
+Pokemon = REUNICLUS,46
+    Moves = LIGHTSCREEN,REFLECT,RECOVER,PSYCHIC
+	Gender = female
+	Shiny = yes
+    AbilityIndex = 1
+	Item = LIGHTCLAY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,136,0,0,120
+Pokemon = COMBEE,47
+    Moves = INFESTATION,CHARM,REST,TOXIC
+    Gender = female
+	Shiny = yes
+	Item = EVIOLITE
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,4,0,252
+Pokemon = SPIRITOMB,48
+    Moves = CURSE,PAINSPLIT,NIGHTSHADE,DOUBLETEAM
+	Shiny = yes
+    AbilityIndex = 0
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 20,0,240,0,248,0
+#-------------------------------
+[RESEARCHER_Tara,Tara,3]
+Items = FRESHWATER,FRESHWATER,FRESHWATER
+LoseText = Very impressive!
+Pokemon = CORSOLA,45
+    Moves = SURF,ANCIENTPOWER,RECOVER,SPIKES
+    AbilityIndex = 2
+    Gender = female
+	Item = ROCKYHELMET
+	IVS = 31,31,31,31,31,31
+	EVS = 152,0,100,0,156,100
+Pokemon = PELIPPER,46
+    Moves = AIRSLASH,SURF,ICYWIND,ROAR
+    AbilityIndex = 1
+    Gender = male
+	Item = DAMPROCK
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,100,100,56,0
+Pokemon = LANTURN,47
+    Moves = ATTRACT,SURF,DISCHARGE,AQUARING
+    AbilityIndex = 0
+    Gender = female
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,200,0,56,0
+Pokemon = WAILORD,48
+    Moves = SURF,REST,SLEEPTALK,HYPERVOICE
+    AbilityIndex = 2
+    Gender = female
+	Item = CHESTOBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 0,0,196,0,116,196
+#-------------------------------
+#-------------------------------BEACH
+#-------------------------------
+[RESEARCHER_Tara,Tara,1]
+LoseText = Looks like you're good to go!
+Pokemon = KRABBY,4
+    Moves = BUBBLE,HARDEN
+    AbilityIndex = 0
+    Gender = female
+#-------------------------------
+#-------------------------------ROUTE 1
+#-------------------------------
+[YOUNGSTER,Josephi,1]
+LoseText = Unfathomable!
+Pokemon = KRABBY,4
+    Moves = BUBBLE,HARDEN
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+Pokemon = RATTATA,5
+    Moves = TACKLE,TAILWHIP
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+#-------------------------------
+[ASSMANCER,Evan,1]
+LoseText = Looks like my assmancy isn't strong enough yet...
+Pokemon = KRABBY,6
+    Moves = VISEGRIP,LEER
+    AbilityIndex = 0
+	IVS = 20,30,0,0,0,0
+Pokemon = DROWZEE,7
+    Moves = HYPNOSIS,POUND
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[TUBER_M,Tubert,1]
+LoseText = I would surely destroy you were I to go all out.
+Pokemon = WINGULL,4
+    Moves = GROWL,WATERGUN
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+Pokemon = EXEGGCUTE,4
+    Moves = ABSORB,HYPNOSIS
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+Pokemon = DWEBBLE,4
+    Moves = FURYCUTTER,SANDATTACK
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+#-------------------------------
+#-------------------------------HIGHTIDE TOWN
+#-------------------------------
+[SWORDMASTER_Drew,Drew,1]
+LoseText = N-Nani?!
+Pokemon = RIOLU,21
+    Moves = SWORDSDANCE, ROCKTOMB, CUT, METALCLAW
+	Gender = female
+    AbilityIndex = 0
+	Item = FOCUSBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 252,252,0,0,0,4
+Pokemon = CHARMELEON,22
+    Moves = CUT,EMBER,METALCLAW,DRAGONDANCE
+    Gender = male
+	Shiny = yes
+	Item = FOCUSBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 156,252,0,100,0,0
+Pokemon = DRATINI,23
+    Moves = DRAGONRAGE,REST,THUNDERWAVE,SNORE
+    AbilityIndex = 0
+	Item = FOCUSBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,156,0,0,100
+#-------------------------------
+[RESEARCHER_Soon,Soon,1]
+Items = SODAPOP,SODAPOP,SODAPOP
+LoseText = Just my luck.
+Pokemon = DWEBBLE,16
+    Moves = BUGBITE,ROCKBLAST,MAGNITUDE,SPIKES
+	Gender = female
+	Shiny = yes
+    AbilityIndex = 2
+	Item = WHITEHERB
+	IVS = 31,31,31,31,31,31
+	EVS = 252,128,132,0,0,0
+Pokemon = COMBEE,18
+    Moves = STRUGGLEBUG,CHARM,REST,TOXIC
+    Gender = female
+	Shiny = yes
+	Item = CHESTOBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,4,0,252
+Pokemon = SPIRITOMB,20
+	NAME = ARCEUS
+    Moves = CURSE,PAINSPLIT,WILLOWISP,DOUBLETEAM
+	Shiny = yes
+    AbilityIndex = 0
+	Item = SITRUSBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 56,0,200,0,252,0
+#-------------------------------
+[SWIMMER_F,Yiping,1]
+LoseText = My head was in the clouds!
+Pokemon = KRABBY,16
+    Moves = BUBBLE,LEER,MUDSHOT,VISEGRIP
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+	EVS = 252,128,0,132,0,0
+Pokemon = WINGULL,16
+    Moves = GROWL,WATERGUN,WINGATTACK,SUPERSONIC
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+	EVS = 0,252,0,252,0,4
+#-------------------------------
+[SWIMMER_F,Kara,1]
+LoseText = I think you're ready for the Leader!
+Pokemon = STARYU,18
+    Moves = WATERGUN, HARDEN, CONFUSERAY, PSYBEAM
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+	EVS = 56,0,0,200,0,252
+#-------------------------------
+[LEADER_Tara,Tara,1]
+Items = SUPERPOTION,SUPERPOTION
+LoseText = Well done!  You've more than earned this badge.
+Pokemon = CORSOLA,21
+    Moves = SPIKES,WATERPULSE,RECOVER,ROCKTOMB
+    AbilityIndex = 2
+    Gender = female
+	Item = ROCKYHELMET
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,200,0,56,0
+Pokemon = WINGULL,20
+    Moves = WINGATTACK,WATERPULSE,ICYWIND,ROAR
+    AbilityIndex = 1
+    Gender = male
+	Item = DAMPROCK
+	IVS = 31,31,31,31,31,31
+	EVS = 0,120,0,136,252,0
+Pokemon = LANTURN,23
+    Moves = ATTRACT,WATERPULSE,SPARK,AQUARING
+    AbilityIndex = 0
+    Gender = female
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,200,0,56,0
+#-------------------------------
+#-------------------------------RIPTIDE CAVE
+#-------------------------------
+[ASSMANCER,Redfield,1]
+LoseText = I didn't bring enough arsenal...
+Pokemon = KRABBY,10
+    Moves = VISEGRIP,LEER
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = DROWZEE,11
+    Moves = HYPNOSIS,POUND
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[ASSMANCER,Rock,1]
+LoseText = This reminds me of that time with Will Smith...
+Pokemon = AIPOM,12
+    Moves = POUND,DOUBLESLAP
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[ASSMANCER,Pratt,1]
+LoseText = WAAOOOOHHH!
+Pokemon = KRABBY,10
+    Moves = VISEGRIP,LEER
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = KRABBY,10
+    Moves = VISEGRIP,LEER
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = DROWZEE,11
+    Moves = HYPNOSIS,POUND
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[ASSMANCER,Hemsworth,1]
+LoseText = My cheeks were the ones that got clapped.
+Pokemon = AIPOM,12
+    Moves = POUND,DOUBLESLAP
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = DROWZEE,13
+    Moves = HYPNOSIS,POUND
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[ASSMANCER_Chris,Chris,1]
+LoseText = Looks like I've still got a lot to learn about Assmancy.
+Pokemon = DROWZEE,15
+    Moves = HYPNOSIS,POUND,TICKLE,CONFUSION
+    AbilityIndex = 0
+	Gender = male
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,120,0,0,0,136
+Pokemon = KRABBY,14
+    Moves = VISEGRIP,TICKLE,AQUAJET,HONECLAWS
+    AbilityIndex = 0
+	Gender = male
+	Item = LIECHIBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 200,252,0,56,0,0
+Pokemon = AIPOM,16
+    Moves = FAKEOUT,DOUBLESLAP,TICKLE,BOUNCE
+    AbilityIndex = 2
+	Gender = male
+	Item = MUSCLEBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 0,252,0,252,0,0
+#-------------------------------
+#-------------------------------RIPTIDE CAVE PART 2
+#-------------------------------	
+#-------------------------------
+[YOUNGSTER,Tyler,1]
+LoseText = *Incoherent screeching*
+Pokemon = RATTATA,38
+    Moves = TAKEDOWN,ENDEAVOR,SUPERFANG,QUICKATTACK
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+Pokemon = RATICATE,38
+    Moves = DOUBLEEDGE,ENDEAVOR,HYPERFANG,SUCKERPUNCH
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+#-------------------------------
+[TUBER_M,Goober,1]
+LoseText = The world goes round while I go down.
+Pokemon = CLAMPERL,40
+    Moves = WHIRLPOOL,WATERGUN,IRONDEFENSE
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+#-------------------------------
+[SWIMMER_M,Edward,1]
+LoseText = I'm gonna die...
+Pokemon = STARYU,39
+    Moves = BRINE,POWERGEM,LIGHTSCREEN,SWIFT
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+Pokemon = KINGLER,40
+    Moves = RAZORSHELL,FLAIL,STOMP,BUBBLEBEAM
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+#-------------------------------
+[TUBER_M,Wunber,1]
+LoseText = I need more tubes...
+Pokemon = SHELLDER,39
+    Moves = ICEBEAM,RAZORSHELL,IRONDEFENSE,PROTECT
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+Pokemon = CRUSTLE,40
+    Moves = XSCISSOR,ROCKBLAST,ROCKSLIDE,SLASH
+    AbilityIndex = 0
+	IVS = 0,0,0,0,0,0
+#-------------------------------
+[ASSMANCER,Hansen,1]
+LoseText = I couldn't catch you...
+Pokemon = AIPOM,44
+    Moves = POUND,DOUBLESLAP,TICKLE,BOUNCE
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = HYPNO,46
+    Moves = POUND,HYPNOSIS,MUDSLAP,TICKLE
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+#-------------------------------ROUTE 2
+#-------------------------------	
+[PICNICKER,I Hardly Know Her,1]
+LoseText = Even Nick would be better than this...
+Pokemon = ELECTRIKE,18
+    Moves = THUNDERWAVE,HOWL,QUICKATTACK,SPARK
+    AbilityIndex = 0
+Pokemon = EXEGGCUTE,18
+    Moves = MEGADRAIN,REFLECT,HYPNOSIS,LEECHSEED
+    AbilityIndex = 0
+#-------------------------------
+[SUPERNERD,Nick,1]
+LoseText = I just wanted to have picnic...
+Pokemon = GOOMY,20
+    Moves = DRAGONBREATH,BIDE,ABSORB,BUBBLE
+    AbilityIndex = 0
+#-------------------------------
+#-------------------------------ELECTRIC MARSH
+#-------------------------------
+[ASSMANCER,Pine,1]
+LoseText = I should have fought dirtier...
+Pokemon = AIPOM,23
+    Moves = POUND,DOUBLESLAP,MUDSLAP,TICKLE
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = DROWZEE,24
+    Moves = HYPNOSIS,POUND,MUDSLAP,POISONGAS
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[COOLTRAINER_M,XxLightningG0D7xX,1]
+LoseText = Cringe.
+Pokemon = GOOMY,21
+    Moves = DRAGONBREATH,BIDE,ABSORB,BUBBLE
+    AbilityIndex = 0
+Pokemon = TYNAMO,21
+    Moves = TACKLE,THUNDERWAVE,SPARK,CHARGEBEAM
+    AbilityIndex = 0
+Pokemon = STUNFISK,21
+    Moves = CHARGE,THUNDERSHOCK,WATERGUN,MUDSLAP
+    AbilityIndex = 0
+#-------------------------------
+[GENTLEMAN,Wilson,1]
+LoseText = It's about sleeping on Stunfisk!
+Pokemon = STUNFISK,19
+    Moves = CHARGE,THUNDERSHOCK,WATERGUN,MUDSLAP
+    AbilityIndex = 1
+Pokemon = STUNFISK,19
+    Moves = CHARGE,THUNDERSHOCK,WATERGUN,MUDSLAP
+    AbilityIndex = 0
+Pokemon = STUNFISK,19
+    Moves = CHARGE,THUNDERSHOCK,WATERGUN,MUDSLAP
+    AbilityIndex = 1
+Pokemon = STUNFISK,19
+    Moves = CHARGE,THUNDERSHOCK,WATERGUN,MUDSLAP
+    AbilityIndex = 0
+Pokemon = STUNFISK,19
+    Moves = CHARGE,THUNDERSHOCK,WATERGUN,MUDSLAP
+    AbilityIndex = 1
+Pokemon = STUNFISK,19
+    Moves = CHARGE,THUNDERSHOCK,WATERGUN,MUDSLAP
+    AbilityIndex = 0	
+#-------------------------------
+[RESEARCHER_Soon,Soon,2]
+Items = SODAPOP,SODAPOP,SODAPOP,SODAPOP
+LoseText = Back to being unlucky.
+Pokemon = JOLTIK,26
+    Moves = PINMISSILE,THUNDERWAVE,STICKYWEB,SWAGGER
+	Gender = female
+	Shiny = yes
+    AbilityIndex = 2
+	Item = BRIGHTPOWDER
+	IVS = 31,31,31,31,31,31
+	EVS = 100,128,0,156,128,0
+Pokemon = DWEBBLE,26
+    Moves = BUGBITE,ROCKBLAST,MAGNITUDE,SPIKES
+	Gender = female
+	Shiny = yes
+    AbilityIndex = 2
+	Item = WHITEHERB
+	IVS = 31,31,31,31,31,31
+	EVS = 252,128,132,0,0,0
+Pokemon = COMBEE,28
+    Moves = INFESTATION,CHARM,REST,TOXIC
+    Gender = female
+	Shiny = yes
+	Item = CHESTOBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,4,0,252
+Pokemon = SPIRITOMB,30
+    Moves = CURSE,PAINSPLIT,WILLOWISP,DOUBLETEAM
+	Shiny = yes
+    AbilityIndex = 0
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 56,0,200,0,252,0
+#-------------------------------
+#-------------------------------GENIUS BAR
+#-------------------------------
+[GENIUS,Michael,1]
+LoseText = I must commit Sudoku now as punishment for granting you the joy of winning.
+Pokemon = VOLTORB,24
+    Moves = SELFDESTRUCT
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = VOLTORB,24
+    Moves = SELFDESTRUCT
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[GENIUS,Freddy,1]
+LoseText = This has been a nightmare.
+Pokemon = SHUPPET,24
+    Moves = SPITE, WILLOWISP, TRICK, NIGHTSHADE
+    AbilityIndex = 0
+	Item = IRONBALL
+	IVS = 31,31,31,31,31,31
+Pokemon = NUZLEAF,24
+    Moves = FAKEOUT,TORMENT,SWAGGER,MEGADRAIN
+	AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[GENIUS,Jack,1]
+LoseText = A cold death awaits me.
+Pokemon = SHUPPET,25
+    Moves = SPITE,WILLOWISP,TRICK,NIGHTSHADE
+    AbilityIndex = 0
+	Item = IRONBALL
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[GENIUS,Patrick,1]
+LoseText = I got baited, man.
+Pokemon = NUZLEAF,24
+    Moves = FAKEOUT,TORMENT,SWAGGER,MEGADRAIN
+	AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = VOLTORB,24
+    Moves = SELFDESTRUCT
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[GENIUS,Hannibal,1]
+LoseText = I've been silenced like a lamb.
+Pokemon = SHUPPET,23
+    Moves = SPITE,WILLOWISP,TRICK,NIGHTSHADE
+    AbilityIndex = 0
+	Item = IRONBALL
+	IVS = 31,31,31,31,31,31
+Pokemon = PORYGON,24
+    Moves = TACKLE,THUNDERSHOCK,PSYBEAM,RECYCLE
+    AbilityIndex = 1
+	Item = ORANBERRY
+	IVS = 31,31,31,31,31,31
+Pokemon = NUZLEAF,25
+    Moves = FAKEOUT,TORMENT,SWAGGER,MEGADRAIN
+	AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[APPLEBOSS,Steve Jobs,1]
+LoseText = Do not enjoy your victory, this vessel was but an hologram.  My reign of terror will continue.  Maximum pain, the world must endure.
+Pokemon = SHUPPET,26
+    Moves = HEX,WILLOWISP,ENDURE,DESTINYBOND
+    AbilityIndex = 2
+	Item = SALACBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 156,0,0,252,100,0
+Pokemon = VOLTORB,26
+    Moves = ELECTROBALL,SELFDESTRUCT,SIGNALBEAM,SWAGGER
+    AbilityIndex = 2
+	Item = LIECHIBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 156,0,0,100,252,0
+Pokemon = NUZLEAF,27
+    Moves = FAKEOUT,BULLETSEED,THIEF,TORMENT
+	AbilityIndex = 1
+	Item = SITRUSBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,156,0,100,0,0
+Pokemon = PORYGON2,28
+    Moves = PSYBEAM,CHARGEBEAM,RECOVER,THUNDERWAVE
+	AbilityIndex = 0
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,100,0,56,100
+#-------------------------------
+#-------------------------------THUNDERBOG VILLAGE
+#-------------------------------
+[RESEARCHER_Max,Max,1]
+LoseText = *Lego Yoda death sound*
+Pokemon = DELCATTY,28
+    Moves = THUNDERPUNCH,WORKUP,BATONPASS,SING
+	Gender = male
+	Shiny = yes
+    AbilityIndex = 0
+	Item = LUMINOUSMOSS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,200,0,56
+Pokemon = MACHOKE,29
+    Moves = THUNDERPUNCH,REVENGE,BULKUP,CIRCLETHROW
+	Gender = male
+    AbilityIndex = 0
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 200,56,0,0,0,252
+Pokemon = CROBAT,31
+    Moves = CONFUSERAY,THUNDERPUNCH,GIGADRAIN,MACHPUNCH
+	Gender = female
+    AbilityIndex = 1
+	Item = WEAKNESSPOLICY
+	IVS = 31,31,31,31,31,31
+	EVS = 128,128,0,128,128,0
+#-------------------------------
+[COOLTRAINER_M,Smough,1]
+LoseText = I got hammered.
+Pokemon = STUNFISK,25
+    Moves = THUNDERSHOCK,MUDSLAP,WATERGUN,SUCKERPUNCH
+	Gender = male
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,252,0,0,4
+Pokemon = TYNAMO,25
+    Moves = TACKLE,THUNDERWAVE,SPARK,CHARGEBEAM
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,252,0,0,4
+#-------------------------------
+[COOLTRAINER_M,Ornstein,1]
+LoseText = I've been slain.
+Pokemon = MANECTRIC,26
+    Moves = THUNDERFANG,QUICKATTACK,BITE,HOWL
+	Gender = male
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+	EVS = 100,252,0,156,0,0
+#-------------------------------
+[LEADER_Mila,Mila,1]
+Items = HYPERPOTION, HYPERPOTION
+LoseText = Poggers.
+Pokemon = JOLTIK,30
+    Moves = CHARGEBEAM,STICKYWEB,STRUGGLEBUG,GIGADRAIN
+	Gender = female
+    AbilityIndex = 1
+	Item = LUMBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 100,128,0,156,128,0
+Pokemon = STUNFISK,29
+    Moves = CHARGEBEAM,MUDSHOT,REST,SNORE
+	Gender = male
+    AbilityIndex = 1 
+	Item = TERRAINEXTENDER
+	IVS = 31,31,31,31,31,31
+	EVS = 200,56,0,0,0,252
+Pokemon = ELECTRODE,30
+    Moves = CHARGEBEAM,LIGHTSCREEN,EXPLOSION,SWIFT
+	Gender = male
+    AbilityIndex = 2
+	Item = LIGHTCLAY
+	IVS = 31,31,31,31,31,31
+	EVS = 200,56,0,0,0,252
+Pokemon = AMPHAROS,32
+    Moves = COTTONGUARD,CHARGEBEAM,SIGNALBEAM,MAGNETRISE
+	Gender = female
+    AbilityIndex = 0
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,4,0,0,252
+#-------------------------------
+#-------------------------------Bike Route
+#-------------------------------
+[BIKER,Guy,1]
+LoseText = I should not have let the dogs out.
+Pokemon = GRANBULL,29
+    Moves = BITE,TAILWHIP,LICK,HEADBUTT
+#-------------------------------
+[BIKER,Guy,2]
+LoseText = I should not have let the dogs out.
+Pokemon = MIGHTYENA,28
+    Moves = BITE,SANDATTACK,HOWL,HEADBUTT
+Pokemon = HERDIER,28
+    Moves = BITE,RETALIATE,GROWL,PLAYROUGH
+#-------------------------------
+[BIKER,Guy,3]
+LoseText = I should not have let the dogs out.
+Pokemon = GROWLITHE,27
+    Moves = BITE,FIREFANG,HOWL,AGILITY
+Pokemon = SMEARGLE,27
+    Moves = BITE,TACKLE,SKETCH,ROAROFTIME
+Pokemon = MANECTRIC,27
+    Moves = BITE,THUNDERFANG,QUICKATTACK,HOWL
+#-------------------------------
+#-------------------------------Techtonic Cavern
+#-------------------------------
+[SHADOWWIZARD,Jeilei,1]
+LoseText = This does not spell well for the plan.
+Pokemon = ZOROARK,30
+    Moves = NASTYPLOT, EXTRASENSORY, SHADOWBALL, SWAGGER
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = HAUNTER,30
+    Moves = NASTYPLOT, EXTRASENSORY, SHADOWBALL, SWAGGER
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[SHADOWWIZARD,Hino,1]
+LoseText = I'm gonna get fired for this.
+Pokemon = HAUNTER,30
+    Moves = NASTYPLOT, EXTRASENSORY, SHADOWBALL, SWAGGER
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = HOUNDOOM,30
+    Moves = FIREFANG, CRUNCH, SHADOWBALL, SWAGGER
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[SHADOWWIZARD,Balthor,1]
+LoseText = I was not steadfast enough this time...
+Pokemon = ZOROARK,30
+    Moves = NASTYPLOT, EXTRASENSORY, SHADOWBALL, SWAGGER
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = TORKOAL,30
+    Moves = LAVAPLUME, BODYSLAM, SHADOWBALL, SWAGGER
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[SHADOWWIZARD,Dufon,1]
+LoseText = I don't get paid enough for this...
+Pokemon = SCRAFTY,32
+    Moves = SWAGGER, BRICKBREAK, PAYBACK, ZENHEADBUTT
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[SHADOWWIZARD,Young Zel,1]
+LoseText = This is why I never leave the castle without my bullet proof vest.
+Pokemon = SCRAFTY,30
+    Moves = SWAGGER, BRICKBREAK, PAYBACK, ZENHEADBUTT
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = KADABRA,30
+    Moves = PROTECT, FUTURESIGHT, SHADOWBALL, SWAGGER
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = HAUNTER,30
+    Moves = NASTYPLOT, EXTRASENSORY, SHADOWBALL, SWAGGER
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[SWAGMESSIAH_Connor,Connor,1]
+LoseText = This is why I never leave the castle without my bullet proof vest.
+Pokemon = ABSOL,33
+	Item = RAZORCLAW
+    Moves = SWAGGER, SHADOWBALL, PSYCHOCUT, FUTURESIGHT
+    AbilityIndex = 1
+	IVS = 31,31,31,31,31,31
+	EVS = 100,0,0,156,252,0
+Pokemon = GENGAR,33
+	Item = SITRUSBERRY
+    Moves = SWAGGER, SHADOWBALL, THUNDERBOLT, DESTINYBOND
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+	EVS = 100,0,0,156,252,0
+Pokemon = ALAKAZAM,34
+	Item = LIGHTCLAY
+    Moves = REFLECT, FUTURESIGHT, SHADOWBALL, SWAGGER
+    AbilityIndex = 2
+	IVS = 31,31,31,31,31,31
+	EVS = 100,0,0,156,252,0
+Pokemon = MAGIKARP,60
+	Item = SILKSCARF
+    Moves = HYPERBEAM, BLASTBURN, HYDROCANNON, FRENZYPLANT
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,0,252,0
+#-------------------------------
+#-------------------------------SUNPORT CITY
+#-------------------------------
+[RESEARCHER_Max,Max,2]
+LoseText = *Lego Yoda death sound*
+Pokemon = DELCATTY,31
+    Moves = FIREPUNCH,WORKUP,BATONPASS,SING
+	Gender = male
+	Shiny = yes
+    AbilityIndex = 0
+	Item = LUMINOUSMOSS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,200,0,56
+Pokemon = MACHOKE,32
+    Moves = THUNDERPUNCH,REVENGE,BULKUP,FIREPUNCH
+	Gender = male
+    AbilityIndex = 0
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 200,56,0,0,0,252
+Pokemon = LAIRON,32
+    Moves = THUNDERPUNCH,FIREPUNCH,HEADBUTT,IRONDEFENSE
+	Gender = male
+    AbilityIndex = 0
+	Item = EVIOLITE
+	IVS = 31,31,31,31,31,31
+	EVS = 200,156,0,0,0,152	
+Pokemon = CROBAT,33
+    Moves = CONFUSERAY,THUNDERPUNCH,GIGADRAIN,FIREPUNCH
+	Gender = female
+    AbilityIndex = 1
+	Item = WEAKNESSPOLICY
+	IVS = 31,31,31,31,31,31
+	EVS = 128,128,0,128,128,0
+#-------------------------------
+[POKEMONTRAINER_Adam,Adam,1]
+LoseText = Good battle.
+Pokemon = GRUMPIG,31
+    Moves = PSYBEAM,SWALLOW,SPITUP,STOCKPILE
+	Gender = male
+    AbilityIndex = 2
+	Item = PETAYABERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,252,0,0,4
+Pokemon = CARNIVINE,31
+    Moves = GRASSWHISTLE,RAZORLEAF,INGRAIN,ROUND
+	Gender = male
+    AbilityIndex = 0
+	Item = OCCABERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,128,0,0,128,4
+Pokemon = PAWNIARD,33
+    Moves = ROCKTOMB,KNOCKOFF,CUT,MAGNETRISE
+	Gender = male
+    AbilityIndex = 0
+	Item = EVIOLITE
+	IVS = 31,31,31,31,31,31
+	EVS = 200,156,0,0,0,152	
+#-------------------------------
+[FIRESPITTER,Kanye,1]
+LoseText = I wasn't in my zone.
+Pokemon = SLUGMA,31
+    Moves = YAWN,EMBER,ROCKTHROW,SMOG
+	Gender = male
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+	EVS = 100,0,100,0,156,152
+Pokemon = MAGMAR,31
+    Moves = FLAMEWHEEL,CONFUSERAY,SMOKESCREEN,SMOG
+	Gender = male
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+	EVS = 100,252,0,0,156,0
+#-------------------------------
+[FIRESPITTER,Snoop Dog,1]
+LoseText = I got smoked.
+Pokemon = WEEDLE,4
+    Moves = SMOKESCREEN
+	Gender = male
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = WEEDLE,20
+    Moves = SMOKESCREEN
+	Gender = male
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = HOUNDOOM,32
+    Moves = FIREFANG,TAUNT,BITE,SMOG
+	Gender = male
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+	EVS = 100,252,0,156,0,0
+#-------------------------------
+[LEADER_Paul,Paul,1]
+Items = HYPERPOTION, HYPERPOTION
+LoseText = It is what it is...
+Pokemon = NINETALES,37
+    Moves = ENERGYBALL,OVERHEAT,CONFUSERAY,WILLOWISP
+	Gender = female
+    AbilityIndex = 2
+	Item = HEATROCK
+	IVS = 31,31,31,31,31,31
+	EVS = 156,0,0,100,128,128
+Pokemon = ARCANINE,36
+    Moves = EXTREMESPEED,OVERHEAT,FIREFANG,THUNDERFANG
+	Gender = male
+    AbilityIndex = 0 
+	Item = EXPERTBELT
+	IVS = 31,31,31,31,31,31
+	EVS = 200,56,0,0,0,252
+Pokemon = HOUNDOOM,36
+    Moves = FOULPLAY,OVERHEAT,ATTRACT,SWAGGER
+	Gender = male
+    AbilityIndex = 0 
+	Item = SITRUSBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,156,0,0,100
+Pokemon = TORKOAL,37
+    Moves = OVERHEAT,SOLARBEAM,LAVAPLUME,SHELLSMASH
+	Gender = female
+    AbilityIndex = 1
+	Item = WHITEHERB
+	IVS = 31,31,31,31,31,31
+	EVS = 200,0,0,56,0,252
+Pokemon = COALOSSAL,39
+    Moves = OVERHEAT,ROCKSLIDE,MAGNITUDE,SOLARBEAM
+	Gender = male
+    AbilityIndex = 0
+	Item = ASSAULTVEST
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,0,124,136
+#-------------------------------
+[RESEARCHER_Tara,Tara,2]
+LoseText = Very impressive!
+Pokemon = LANTURN,38
+    Moves = ATTRACT,WATERPULSE,SPARK,AQUARING
+    AbilityIndex = 0
+    Gender = female
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,200,0,56,0
+Pokemon = PELIPPER,36
+    Moves = AIRSLASH,WATERPULSE,ICYWIND,ROAR
+    AbilityIndex = 1
+    Gender = male
+	Item = DAMPROCK
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,100,100,56,0
+Pokemon = QWILFISH,37
+    Moves = AQUAJET,POISONJAB,FELLSTINGER,SPIKES
+    AbilityIndex = 2
+    Gender = male
+	Item = ROCKYHELMET
+	IVS = 31,31,31,31,31,31
+	EVS = 152,156,100,0,0,100
+Pokemon = WAILORD,40
+    Moves = AQUAJET,BOUNCE,BODYSLAM,MAGNITUDE
+    AbilityIndex = 2
+    Gender = female
+	Item = POWERHERB
+	IVS = 31,31,31,31,31,31
+	EVS = 0,116,196,0,0,196
+#-------------------------------
+#-------------------------------NEBULA CITY
+#-------------------------------
+[RESEARCHER_Michelle,Michelle,1]
+LoseText = Wow!
+Pokemon = TREECKO,60
+    Moves = MIMIC, LEECHSEED, SUBSTITUTE, FURYCUTTER
+    AbilityIndex = 0
+    Gender = female
+	Item = EVIOLITE
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,100,56,0,100
+Pokemon = HEATMOR,48
+    Moves = MIMIC, LAVAPLUME, BELCH, GIGADRAIN
+    AbilityIndex = 0
+    Gender = male
+	Item = PETAYABERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 100,0,0,200,156,0
+Pokemon = ZWEILOUS,48
+    Moves = CRUNCH,DRAGONRUSH,MIMIC,THUNDERWAVE
+    AbilityIndex = 2
+    Gender = female
+	Item = BLACKGLASSES
+	IVS = 31,31,31,31,31,31
+	EVS = 200,252,0,56,0,0
+Pokemon = ALTARIA,50
+    Moves = DRAGONDANCE,SKYATTACK,MIMIC,DRAGONCLAW
+    AbilityIndex = 0
+    Gender = female
+	Item = POWERHERB
+	IVS = 31,31,31,31,31,31
+	EVS = 200,200,0,0,0,108
+Pokemon = DIGGERSBY,50
+    Moves = BELLYDRUM,DIG,MIMIC,FACADE
+    AbilityIndex = 1
+    Gender = female
+	Item = SITRUSBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 200,200,0,0,0,108
+Pokemon = SALAMENCE,52
+    Moves = FLAMETHROWER,DRAGONBREATH,AQUATAIL,WISH
+    AbilityIndex = 0
+    Gender = male
+	Item = YACHEBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,0,100,156
+#-------------------------------
+[SWORDMASTER_Drew,Drew,2]
+LoseText = N-Nani?!
+Pokemon = LUCARIO,48
+    Moves = WORKUP, VACUUMWAVE, STRENGTH, METALCLAW
+	Gender = female
+    AbilityIndex = 0
+	Item = FOCUSBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 100,156,0,96,156,0
+Pokemon = THROH,50
+    Moves = VITALTHROW, STRENGTH, REST, PAYBACK
+	Gender = female
+    AbilityIndex = 0
+	Item = FOCUSBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 252,52,100,0,0,100
+Pokemon = CHARIZARD,52
+    Moves = STRENGTH,FLAREBLITZ,AERIALACE,DRAGONDANCE
+    Gender = male
+	Shiny = yes
+	AbilityIndex = 0
+	Item = FOCUSBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 156,252,0,100,0,0
+Pokemon = DRAGONITE,54
+    Moves = HYPERBEAM,STRENGTH,DRACOMETEOR,THUNDER
+	Gender = male
+    AbilityIndex = 2
+	Item = FOCUSBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 152,0,56,0,200,100
+#-------------------------------
+#-------------------------------Allies
+#-------------------------------
+[PROFESSOR_Brian,Brian,2]
+LoseText = You've passed the test.
+Pokemon = METAGROSS,55
+    Moves = LIGHTSCREEN,METEORMASH,PSYCHIC,THUNDERPUNCH
+    AbilityIndex = 0
+    Gender = male
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,120,0,0,136
+Pokemon = GALLADE,54
+    Moves = PSYCHOCUT,FIREPUNCH,DRAINPUNCH,BULKUP
+    AbilityIndex = 0
+    Gender = male
+	Item = RAZORCLAW
+	IVS = 31,31,31,31,31,31
+	EVS = 100,200,0,152,56,0
+Pokemon = FORRETRESS,53
+    Moves = GYROBALL,PROTECT,TOXIC,INFESTATION
+    AbilityIndex = 0
+    Gender = male
+	Shiny = yes
+	Item = ROCKYHELMET
+	IVS = 31,31,31,31,31,31
+	EVS = 200,0,56,0,0,252
+
+#-------------------------------
+[RESEARCHER_Jake,Jake,2]
+LoseText = Most impressive.
+Pokemon = TYRANTRUM,55
+    Moves = OUTRAGE
+    AbilityIndex = 0
+    Gender = male
+	Item = CHOICEBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 100,252,0,100,0,56
+Pokemon = LAPRAS,54
+    Moves = FREEZEDRY,BRINE,RAINDANCE,REST
+    AbilityIndex = 2
+    Gender = female
+	Item = DAMPROCK
+	IVS = 31,31,31,31,31,31
+	EVS = 52,0,200,0,56,200
+Pokemon = YANMEGA,53
+    Moves = SILVERWIND,AIRCUTTER,ANCIENTPOWER,GIGADRAIN
+    AbilityIndex = 0
+    Gender = male
+	Item = ASSAULTVEST
+	IVS = 31,31,31,31,31,31
+	EVS = 200,0,0,0,252,56
+#-------------------------------
+[RESEARCHER_Julien,Julien,2]
+LoseText = Very nicely done.
+Pokemon = SYLVEON,55
+    Moves = HYPERVOICE,WISH,SUBSTITUTE,REFLECT
+    AbilityIndex = 2
+    Gender = female
+	Item = PETAYABERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,100,0,156,0
+Pokemon = TENTACRUEL,54
+    Moves = WHIRLPOOL,DIVE,SLUDGEBOMB,SUBSTITUTE
+    AbilityIndex = 1
+    Gender = female
+	Item = BLACKSLUDGE
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,200,0,0,56	
+Pokemon = TORCHIC,53
+    Moves = WORKUP,BRAVEBIRD,JUMPKICK,FLAMETHROWER
+    AbilityIndex = 2
+    Gender = male
+	Item = EVIOLITE
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,100,0,156,0
+#-------------------------------
+[RESEARCHER_Mila,Mila,2]
+LoseText = Poggers.
+Pokemon = AMPHAROS,55
+    Moves = PARABOLICCHARGE,SIGNALBEAM,DRAGONPULSE,MAGNETICFLUX
+    AbilityIndex = 0
+    Gender = female
+	Item = AIRBALLOON
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,0,100,156
+Pokemon = ESPEON,54
+    Moves = CALMMIND,REFLECT,STOREDPOWER,HYPERVOICE
+    AbilityIndex = 2
+    Gender = female
+	Item = GANLONBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 200,0,100,152,56,0
+Pokemon = CRUSTLE,53
+    Moves = SHELLSMASH,ROCKBLAST,XSCISSOR,FLAIL
+    AbilityIndex = 0
+    Gender = male
+	Item = WEAKNESSPOLICY
+	IVS = 31,31,31,31,31,31
+	EVS = 4,252,0,252,0,0
+
+#-------------------------------
+[RESEARCHER_Max,Max,4]
+LoseText = *Lego Yoda death sound*
+Pokemon = CROBAT,55
+    Moves = CONFUSERAY,FIREPUNCH,GIGADRAIN,POWERUPPUNCH
+	Gender = female
+    AbilityIndex = 1
+	Item = WEAKNESSPOLICY
+	IVS = 31,31,31,31,31,31
+	EVS = 128,128,0,128,128,0
+Pokemon = DELCATTY,54
+    Moves = FIREPUNCH,POWERUPPUNCH,BATONPASS,SING
+	Gender = male
+	Shiny = yes
+    AbilityIndex = 0
+	Item = LUMINOUSMOSS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,200,0,56
+Pokemon = AGGRON,53
+    Moves = THUNDERPUNCH,POWERUPPUNCH,FIREPUNCH,ROCKSMASH
+	Gender = male
+    AbilityIndex = 0
+	Item = ASSAULTVEST
+	IVS = 31,31,31,31,31,31
+	EVS = 156,100,0,0,0,252
+#-------------------------------
+[RESEARCHER_Soon,Soon,4]
+Items = SODAPOP,SODAPOP,SODAPOP
+LoseText = Back to being unlucky.
+Pokemon = SPIRITOMB,55
+    Moves = TOXIC,PAINSPLIT,NIGHTSHADE,DOUBLETEAM
+	Shiny = yes
+    AbilityIndex = 0
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 20,0,240,0,248,0
+Pokemon = REUNICLUS,54
+    Moves = LIGHTSCREEN,REFLECT,RECOVER,PSYCHIC
+	Gender = female
+	Shiny = yes
+    AbilityIndex = 1
+	Item = LIGHTCLAY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,136,0,0,120
+Pokemon = COMBEE,53
+    Moves = INFESTATION,CHARM,REST,TOXIC
+    Gender = female
+	Shiny = yes
+	Item = EVIOLITE
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,0,4,0,252
+#-------------------------------
+[RESEARCHER_Tara,Tara,4]
+Items = FRESHWATER,FRESHWATER,FRESHWATER
+LoseText = Very impressive!
+Pokemon = PELIPPER,55
+    Moves = HURRICANE,SURF,ICYWIND,ROAR
+    AbilityIndex = 1
+    Gender = male
+	Item = DAMPROCK
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,100,100,56,0
+Pokemon = CORSOLA,54
+    Moves = SURF,ANCIENTPOWER,LIFEDEW,SPIKES
+    AbilityIndex = 2
+    Gender = female
+	Item = ROCKYHELMET
+	IVS = 31,31,31,31,31,31
+	EVS = 152,0,100,0,156,100
+Pokemon = LANTURN,53
+    Moves = ATTRACT,SURF,DISCHARGE,AQUARING
+    AbilityIndex = 0
+    Gender = female
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,200,0,56,0
+#-------------------------------
+#------------------------------- NEBULA GENIUS BAR
+#-------------------------------
+[GENIUS,Grevious,1]
+LoseText = Time to abandon ship!
+Pokemon = ELECTRODE,50
+    Moves = SELFDESTRUCT
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = ELECTRODE,50
+    Moves = SELFDESTRUCT
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[ASSMANCER,Nolan,1]
+LoseText = I got by ass beat.
+Pokemon = KINGLER,50
+    Moves = VISEGRIP,TICKLE,MUDSLAP
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = AMBIPOM,50
+    Moves = DOUBLESLAP,TICKLE,MUDSLAP
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[GENIUS,Maul,1]
+LoseText = Give me my legs back!
+Pokemon = SHIFTRY,51
+    Moves = FAKEOUT,TORMENT,SWAGGER,NIGHTSLASH
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = ELECTRODE,50
+    Moves = SELFDESTRUCT
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[ASSMANCER,Lee,1]
+LoseText = I guess I was assking for a beating.
+Pokemon = KINGLER,50
+    Moves = VISEGRIP,TICKLE,MUDSLAP,RAZORSHELL
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = HYPNO,51
+    Moves = HYPNOSIS,POUND,TICKLE,PSYCHOCUT
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[GENIUS,Tyrannus,1]
+LoseText = This is just the beginning!
+Pokemon = BANETTE,50
+    Moves = TRICK,DESTINYBOND,SHADOWPUNCH,FACADE
+    AbilityIndex = 0
+	Item = TOXICORB
+	IVS = 31,31,31,31,31,31
+Pokemon = SHIFTRY,51
+    Moves = FAKEOUT,TORMENT,SWAGGER,NIGHTSLASH
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[ASSMANCER,Donnell,1]
+LoseText = Holy sardines!
+Pokemon = AMBIPOM,50
+    Moves = DOUBLESLAP,TICKLE,MUDSLAP
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+Pokemon = HYPNO,51
+    Moves = HYPNOSIS,POUND,TICKLE,MUDSLAP
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[GENIUS,Vader,1]
+LoseText = Nooooooooo!
+Pokemon = BANETTE,50
+    Moves = TRICK,DESTINYBOND,SHADOWPUNCH,FACADE
+    AbilityIndex = 0
+	Item = TOXICORB
+	IVS = 31,31,31,31,31,31
+Pokemon = PORYGON2,52
+    Moves = RECYCLE,TAKEDOWN,PSYBEAM,SWIFT
+	Item = SITRUSBERRY
+    AbilityIndex = 0
+	IVS = 31,31,31,31,31,31
+#-------------------------------
+[ASSMANCER_Chris,Chris,2]
+LoseText = Instead of spreading Assmancy, it seems my cheeks were spread.
+Pokemon = HYPNO,55
+    Moves = LIGHTSCREEN,FIREPUNCH,TICKLE,ZENHEADBUTT
+    AbilityIndex = 0
+	Gender = male
+	Item = LIGHTCLAY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,120,0,0,0,136
+Pokemon = KINGLER,56
+    Moves = SLASH,TICKLE,CRABHAMMER,MUDSLAP
+    AbilityIndex = 0
+	Gender = male
+	Item = LIECHIBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 200,252,0,56,0,0
+Pokemon = AMBIPOM,57
+    Moves = HELPINGHAND,DOUBLESLAP,TICKLE,BOUNCE
+    AbilityIndex = 2
+	Gender = male
+	Item = MUSCLEBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 0,252,0,252,0,0
+#-------------------------------
+[APPLEBOSS,Steve Jobs,2]
+LoseText = I should have never put my trust in Assmancy.
+Pokemon = ELECTRODE,55
+    Moves = ELECTROBALL,REFLECT,EXPLOSION,SIGNALBEAM
+    AbilityIndex = 2
+	Item = LIGHTCLAY
+	IVS = 31,31,31,31,31,31
+	EVS = 156,0,0,100,252,0
+Pokemon = SHIFTRY,56
+    Moves = FAKEOUT,BULLETSEED,THIEF,TORMENT
+	AbilityIndex = 1
+	Item = SITRUSBERRY
+	IVS = 31,31,31,31,31,31
+	EVS = 252,156,0,100,0,0
+Pokemon = PORYGONZ,57
+    Moves = SWIFT,NASTYPLOT,RECOVER,ICYWIND
+	AbilityIndex = 1
+	Item = SILKSCARF
+	IVS = 31,31,31,31,31,31
+	EVS = 156,0,0,100,252,0
+#-------------------------------
+#------------------------------- NEBULA OBSERVATORY
+#-------------------------------
+[SCIENTIST,Eric,1]
+LoseText = Okay, but do you know how much damage my Explosions did that game?
+Pokemon = ELECTRODE,50
+    Moves = EXPLOSION
+    AbilityIndex = 0
+	Item = CHOICEBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 0,252,0,252,0,0
+Pokemon = ELECTRODE,50
+    Moves = EXPLOSION
+    AbilityIndex = 0
+	Item = CHOICEBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 0,252,0,252,0,0
+Pokemon = ELECTRODE,50
+    Moves = EXPLOSION
+    AbilityIndex = 0
+	Item = CHOICEBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 0,252,0,252,0,0
+Pokemon = ELECTRODE,50
+    Moves = EXPLOSION
+    AbilityIndex = 0
+	Item = CHOICEBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 0,252,0,252,0,0
+Pokemon = ELECTRODE,50
+    Moves = EXPLOSION
+    AbilityIndex = 0
+	Item = CHOICEBAND
+	IVS = 31,31,31,31,31,31
+	EVS = 0,252,0,252,0,0
+Pokemon = SUICUNE,50
+    Moves = SURF,CALMMIND,REST,SLEEPTALK
+    AbilityIndex = 0
+	Item = LEFTOVERS
+	IVS = 31,31,31,31,31,31
+	EVS = 252,0,252,0,0,0

@@ -1,0 +1,499 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[000]
+Type = YOUNGSTER
+Name = Josephi
+BeginSpeech = Injest my trousers, ruffian!
+EndSpeechWin = You stood no chance!
+EndSpeechLose = I must consume my own shorts it seems...
+PokemonNos = 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,30
+#-------------------------------
+[001]
+Type = YOUNGSTER
+Name = Joey
+BeginSpeech = Eat my shorts, loser!
+EndSpeechWin = You stood no chance!
+EndSpeechLose = I guess I gotta eat my own shorts...
+PokemonNos = 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,30
+#-------------------------------
+[002]
+Type = YOUNGSTER
+Name = Jotairo
+BeginSpeech = After I defeat you I will beat Die-oh and his Zawarudo!
+EndSpeechWin = You stood no chance!
+EndSpeechLose = Yar yar days...
+PokemonNos = 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,30
+#-------------------------------
+[003]
+Type = BUGCATCHER
+Name = Bugface
+BeginSpeech = Bugs are my destiny!
+EndSpeechWin = Victory was also my destiny!
+EndSpeechLose = Defeat was also my destiny...
+PokemonNos = 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,30
+#-------------------------------
+[004]
+Type = BUGCATCHER
+Name = Weevil
+BeginSpeech = It's time to duel!
+EndSpeechWin = Hehehe!
+EndSpeechLose = I was squashed!
+PokemonNos = 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,30
+#-------------------------------
+[005]
+Type = BUGCATCHER
+Name = Late
+BeginSpeech = I'm the luckiest guy in the world!
+EndSpeechWin = My luck is overwhelming!
+EndSpeechLose = Your skill was too much!
+PokemonNos = 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,30
+#-------------------------------
+[006]
+Type = TUBER_M
+Name = Wunber
+BeginSpeech = I'm number 1!
+EndSpeechWin = You are no better than number 2!
+EndSpeechLose = You must be number 0!
+PokemonNos = 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,29,30
+#-------------------------------
+[007]
+Type = TUBER_M
+Name = Twober
+BeginSpeech = I'm number 2!
+EndSpeechWin = You are no better than number 3!
+EndSpeechLose = You must be number 1!
+PokemonNos = 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,29,30
+#-------------------------------
+[008]
+Type = TUBER_M
+Name = Threeber
+BeginSpeech = I'm number 3!
+EndSpeechWin = You are no better than number 4!
+EndSpeechLose = You must be number 2!
+PokemonNos = 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,29,30
+#-------------------------------
+[009]
+Type = FISHERMAN
+Name = Bobby
+BeginSpeech = Pokemon is like chess.
+EndSpeechWin = Checkmate.
+EndSpeechLose = Maybe more like checkers...
+PokemonNos = 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,29,30
+#-------------------------------
+[010]
+Type = FISHERMAN
+Name = Fishface
+BeginSpeech = Fish are my destiny!
+EndSpeechWin = Victory was also my destiny!
+EndSpeechLose = Defeat was also my destiny...
+PokemonNos = 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,29,30
+#-------------------------------
+[011]
+Type = FISHERMAN
+Name = Mako
+BeginSpeech = It's time to duel!
+EndSpeechWin = I am a legendary fisherman!
+EndSpeechLose = I wiped out!
+PokemonNos = 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,29,30
+#-------------------------------
+[012]
+Type = FISHERMAN
+Name = Sherman
+BeginSpeech = I am a man who is sure of himself.
+EndSpeechWin = This is why I am sure of myself.
+EndSpeechLose = For sure, man.
+PokemonNos = 2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,29,30
+#-------------------------------
+[013]
+Type = LASS
+Name = Joanne
+BeginSpeech = I like skirts! They are comfy and easy to wear
+EndSpeechWin = That's the power of comfy clothing!
+EndSpeechLose = At least I was comfortable while losing...
+PokemonNos = 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,30
+#-------------------------------
+[014]
+Type = LASS
+Name = Josephine
+BeginSpeech = I hate shorts!  They are baggy and bothersome!
+EndSpeechWin = You're worse than Joey!
+EndSpeechLose = Maybe I should switch to shorts...
+PokemonNos = 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,30
+#-------------------------------
+[015]
+Type = LASS
+Name = Jolyene
+BeginSpeech = I am a Jojo reference.
+EndSpeechWin = I don't know shit about this character, fuck it, I have too many of these things to fill out.  I doubt people are going to be losing to the early trainers anyway.
+EndSpeechLose = Time for the secret technique!
+PokemonNos = 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,28,30
+#-------------------------------
+[016]
+Type = COOLTRAINER_M
+Name = Renektus Maximus
+BeginSpeech = I might just have to smurf at your entire peak.
+EndSpeechWin = Common W.
+EndSpeechLose = Rare L.
+PokemonNos = 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+#-------------------------------
+[017]
+Type = COOLTRAINER_M
+Name = Gunther
+BeginSpeech = Thank you for challenging me.  My name Gunther.  I specialize in archery.  Lysanderoth is my brother and he killed everyone in my village and I will not stop until I get revenge.
+EndSpeechWin = I am ready to face Lysanderoth now.
+EndSpeechLose = I will never defeat Lysanderoth at this rate
+PokemonNos = 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+#-------------------------------
+[018]
+Type = COOLTRAINER_M
+Name = UwuGothMommySimp
+BeginSpeech = Blame Brian for my name.
+EndSpeechWin = Blame Brian for your loss.
+EndSpeechLose = I blame Brian for my loss.
+PokemonNos = 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30
+#-------------------------------
+[019]
+Type = BURGLAR
+Name = Ham
+BeginSpeech = It was this or jail time.
+EndSpeechWin = I'm free!
+EndSpeechLose = Losing makes me want to commit crimes.
+PokemonNos = 0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,30
+#-------------------------------
+[020]
+Type = RESEARCHER_Soon
+Name = Soon
+BeginSpeech = Oh come on, I have to face an actual opponent?  Just my luck...
+EndSpeechWin = I'm just too perfect.
+EndSpeechLose = Of course...
+PokemonNos = 31,32,33,34,35,36,37,38,39
+#-------------------------------
+#-------------------------------
+[021]
+Type = AROMALADY
+Name = Jasmine
+BeginSpeech = I like flowers.  They are pretty and pleasant to smell.
+EndSpeechWin = Flowers are better than shorts.
+EndSpeechLose = This stinks.
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58
+#-------------------------------
+[022]
+Type = AROMALADY
+Name = Marjoram
+BeginSpeech = I use aromas to mask bad smells.
+EndSpeechWin = Nothing could mask your stink.
+EndSpeechLose = I'm going to need some stronger scents or stronger pokemon to stop stinking so much.
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58
+#-------------------------------
+[023]
+Type = AROMALADY
+Name = Rosemary
+BeginSpeech = I love the smell of napalm in the morning.
+EndSpeechWin = Smells like... Victory!
+EndSpeechLose = You're on fire! 
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58
+#-------------------------------
+[024]
+Type = FIRESPITTER
+Name = Eminem
+BeginSpeech = My palms are sweaty!
+EndSpeechWin = I'm gonna have some of my mom's spaghetti!
+EndSpeechLose = I only had on shot...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,59
+#-------------------------------
+[025]
+Type = FIRESPITTER
+Name = Fifty Cent
+BeginSpeech = You can find me in the club.
+EndSpeechWin = I'm getting a bottle full of bub!
+EndSpeechLose = I'm heading back to the club...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,59
+#-------------------------------
+[026]
+Type = FIRESPITTER
+Name = xxxryzetacion
+BeginSpeech = This one is for the Ryze mains.
+EndSpeechWin = Oh I think they like me.  In my sorcies!
+EndSpeechLose = Got a couple reworks left...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,59
+#-------------------------------
+[027]
+Type = SAILOR
+Name = Rover
+BeginSpeech = What will you do against a drunken sailor?
+EndSpeechWin = What could you have done against a drunken sailor?
+EndSpeechLose = What could I do as a drunken sailor?
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,60
+#-------------------------------
+[028]
+Type = SAILOR
+Name = Moon
+BeginSpeech = I'm just a normal sailor.  I definitely don't have a magical transformation.
+EndSpeechWin = I didn't even need a magical transformation.
+EndSpeechLose = You would have lost if I did my magical transformation.
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,60
+#-------------------------------
+[029]
+Type = SAILOR
+Name = Gilligan
+BeginSpeech = Let minnow if you want to surrender.
+EndSpeechWin = I did it again!
+EndSpeechLose = I did it again...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,60
+#-------------------------------
+[030]
+Type = POKEMONBREEDER
+Name = Clever
+BeginSpeech = I have a clever name!
+EndSpeechWin = I am a clever trainer!
+EndSpeechLose = You are more clever than I...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58
+#-------------------------------
+[031]
+Type = POKEMONBREEDER
+Name = Original
+BeginSpeech = I have an original name!
+EndSpeechWin = I have an original victory quote!
+EndSpeechLose = I have an original defeat quote...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58
+#-------------------------------
+[032]
+Type = POKEMONBREEDER
+Name = Pun
+BeginSpeech = I am running out of ideas fast!
+EndSpeechWin = But not as fast as you ran out of Pokemon!
+EndSpeechLose = But not as fast as I ran out of Pokemon!
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58
+#-------------------------------
+[033]
+Type = ENGINEER
+Name = Thomas
+BeginSpeech = They call me Thomas the Tank Engineer!
+EndSpeechWin = Chugah Chugah choo choo!
+EndSpeechLose = I'm going off the rails...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,59
+#-------------------------------
+[034]
+Type = ENGINEER
+Name = Enji
+BeginSpeech = Enji is near you!
+EndSpeechWin = But you will never catch him!
+EndSpeechLose = I couldn't engineer a victory...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,59
+#-------------------------------
+[035]
+Type = ENGINEER
+Name = Lee
+BeginSpeech = I'm engine-nearly at the finish line!
+EndSpeechWin = I'm gonna make it!
+EndSpeechLose = So close...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,59
+#-------------------------------
+[036]
+Type = JUGGLER
+Name = Chug
+BeginSpeech = I really want to chug jug with you.
+EndSpeechWin = Number 1 Victory Royale!
+EndSpeechLose = We could have been pro Fortnite gamers...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,60
+#-------------------------------
+[037]
+Type = JUGGLER
+Name = Jimmy
+BeginSpeech = I am the best juggler!
+EndSpeechWin = I never drop the ball!
+EndSpeechLose = I never dropped the ball...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,60
+#-------------------------------
+[038]
+Type = JUGGLER
+Name = Idiot
+BeginSpeech = I am dumb and bad. 
+EndSpeechWin = You are even worse!
+EndSpeechLose = I lose again...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,60
+#-------------------------------
+[039]
+Type = BIKER
+Name = Guy
+BeginSpeech = I will avenge my brothers on the Bike Route! 
+EndSpeechWin = Rest my fallen brothers...
+EndSpeechLose = Forgive me, I have failed you my brothers...
+PokemonNos = 40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,60
+#-------------------------------
+[040]
+Type = POKEMONTRAINER_Adam
+Name = Adam
+BeginSpeech = Oh, hey! Fancy meeting you here.  Let's do our best.
+EndSpeechWin = I'm drawing a blank.  I'll think of something later
+EndSpeechLose = I'm drawing a blank.  I'll think of something later
+PokemonNos = 61,62,63,64,65,66,67,68,69
+#-------------------------------
+#-------------------------------
+[041]
+Type = GENTLEMAN
+Name = Donald
+BeginSpeech = I am going to make the Capri Sun Challenge great again!
+EndSpeechWin = This is the greatest win in the history of the Capris Sun Challenge!
+EndSpeechLose = This battle was rigged.
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88
+#-------------------------------
+[042]
+Type = GENTLEMAN
+Name = Joe
+BeginSpeech = If you don't lose to me, you're not a real pokemon trainer.
+EndSpeechWin = Zzz...
+EndSpeechLose = I'm going back to sleep...
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88
+#-------------------------------
+[043]
+Type = GENTLEMAN
+Name = Barack
+BeginSpeech = Now, let me be clear.
+EndSpeechWin = Yes, I can complete the Capris Sun Challenge!
+EndSpeechLose = Thanks, Obama...
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88
+#-------------------------------
+[044]
+Type = BLACKBELT
+Name = Chuck
+BeginSpeech = I can surf on land.
+EndSpeechWin = I don't battle, I just allow you to lose.
+EndSpeechLose = This remind me of the time I had to fight Gandalf the Grey, and Gandalf the white, and Monty Python and the Holy Grail's Black Knight...
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,89
+#-------------------------------
+[045]
+Type = BLACKBELT
+Name = Poe
+BeginSpeech = Now face the Dragon Warrior!
+EndSpeechWin = That was awesome!
+EndSpeechLose = That was awesome!
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,89
+#-------------------------------
+[046]
+Type = BLACKBELT
+Name = Bruce
+BeginSpeech = I fear not the man who has captured 1000 pokemon.
+EndSpeechWin = To defeat me, you must capture the same pokemon 1000 times.
+EndSpeechLose = You must be the one who caught the same pokemon 1000 times.
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,89
+#-------------------------------
+[047]
+Type = COOLTRAINER_M
+Name = Bradicus
+BeginSpeech = My nunchuck has a knife on it and also a gun. And I'm very cool!
+EndSpeechWin = I was too cool!
+EndSpeechLose = I need Chadicus...
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,90
+#-------------------------------
+[048]
+Type = COOLTRAINER_M
+Name = Chadicus
+BeginSpeech = My sword has a gun on it. And I'm very cool!
+EndSpeechWin = I was too cool!
+EndSpeechLose = I need Bradicus...
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,90
+#-------------------------------
+[049]
+Type = COOLTRAINER_M
+Name = Archibald
+BeginSpeech = I'm coming!
+EndSpeechWin = Hah! I think that enemy got the point!
+EndSpeechLose = I get the point...
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,90
+#-------------------------------
+[050]
+Type = GAMBLER
+Name = Royce
+BeginSpeech = I'm out here grinding!
+EndSpeechWin = You're scared of being rich!
+EndSpeechLose = I don't even get to see my family!
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88
+#-------------------------------
+[051]
+Type = GAMBLER
+Name = Gumby
+BeginSpeech = Let's go gambling!
+EndSpeechWin = I can't stop winning!
+EndSpeechLose = Aw dang it...
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88
+#-------------------------------
+[052]
+Type = GAMBLER
+Name = Gaga
+BeginSpeech = You can't beat my poker face!
+EndSpeechWin = No one can beat my poker face!
+EndSpeechLose = You beat my poker face!
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88
+#-------------------------------
+[053]
+Type = CUEBALL
+Name = Queue
+BeginSpeech = I'm the last one to enter the room, so I will be the last one out.
+EndSpeechWin = CapriSunChallenge.Dequeue()
+EndSpeechLose = I guess this was a stack...
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,89
+#-------------------------------
+[054]
+Type = CUEBALL
+Name = Bill
+BeginSpeech = Supposedly, my trainer class is called cue ball is because I am a white guy with a bald head, which make me resemble a cue ball.
+EndSpeechWin = This was literally the only explanation I found.
+EndSpeechLose = That does seem a little racist to be honest.  I can see why they changed it to ROUGHNECK in later games.
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,89
+#-------------------------------
+[055]
+Type = CUEBALL
+Name = Arbal
+BeginSpeech = Only Esball can defeat me!
+EndSpeechWin = You were not Esball!
+EndSpeechLose = You must be Esball!
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,89
+#-------------------------------
+[056]
+Type = POKEMANIAC
+Name = Someone
+BeginSpeech = Holy crap I am so done with this.
+EndSpeechWin = I win!
+EndSpeechLose = I lose!
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,90
+#-------------------------------
+[057]
+Type = POKEMANIAC
+Name = Someone else
+BeginSpeech = If this ends up not working I'm gonna be so salty.
+EndSpeechWin = You lose!
+EndSpeechLose = You win!
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,90
+#-------------------------------
+[058]
+Type = POKEMANIAC
+Name = The last guy
+BeginSpeech = I picked pokemaniac for the last one because I felt like I was going crazy.
+EndSpeechWin = Yay!
+EndSpeechLose = F-word!
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,90
+#-------------------------------
+[059]
+Type = GENIUS
+Name = Lysanderoth
+BeginSpeech = If only my brother Gunther could see me now.
+EndSpeechWin = King Dragon sends his regards.
+EndSpeechLose = It's a good thing I always carry two guns!
+PokemonNos = 70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90
+#-------------------------------
+[060]
+Type = RESEARCHER_Jake
+Name = Jake
+BeginSpeech = There's a reason they call me the Capri Sun King!
+EndSpeechWin = Shoutout to my sponsor!
+EndSpeechLose = You truly have respect for the pouch.  Good luck on completing the challenge.
+PokemonNos = 91,92,93,94,95,96,97,98,99
+#-------------------------------
+[061]
+Type = DJ
+Name = Squares
+BeginSpeech = Let's do this.
+EndSpeechWin = So close, but so far...
+EndSpeechLose = And we have a winner!
+PokemonNos = 100,101,102,103,104,105

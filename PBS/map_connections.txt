@@ -1,0 +1,78 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+# Lappet Town (2) - Route 1 (5)
+2,North,0,5,South,4
+# Lappet Town (2) - Safari Zone outside (66)
+2,West,0,66,East,0
+# Route 8 (69) - Lappet Town (2)
+69,North,12,2,South,0
+# Route 6 (44) - Route 1 (5)
+44,South,43,5,North,0
+# Safari Zone outside (66) - Route 1 (5)
+66,North,18,5,South,0
+# Cedolan City (7) - Route 1 (5)
+7,South,0,5,North,2
+# Cedolan City (7) - Route 6 (44)
+7,West,5,44,East,0
+# Cedolan City (7) - Lerucean Town (23)
+7,East,0,23,West,78
+# Route 7 (47) - Cedolan City (7)
+47,West,0,7,East,0
+# Route 2 (21) - Cedolan City (7)
+21,South,0,7,North,21
+# Route 2 (21) - Lerucean Town (23)
+21,East,0,23,West,1
+# Route 2 (21) - Route 7 (47)
+21,East,77,47,West,0
+# Route 3 (31) - Lerucean Town (23)
+31,South,32,23,North,0
+# Route 3 (31) - Ingido Plateau outside (35)
+31,West,0,35,East,10
+# Ingido Plateau outside (35) - Route 4 (39)
+35,West,11,39,East,0
+# Route 5 (41) - Route 4 Cycling Road (40)
+41,North,0,40,South,0
+# Route 5 (41) - Route 6 Cycling Road (45)
+41,South,6,45,North,0
+# Route 7 (47) - Battle Frontier (52)
+47,East,8,52,West,0
+# Route 8 (69) - Safari Zone outside (66)
+69,North,0,66,South,10
+# Beach (79) - Route 1 (80)
+79,North,0,80,South,0
+# Route 1 (80) - Hightide Town (81)
+80,North,0,81,South,15
+# Route 2 (92) - Route 1 (80)
+92,South,0,80,North,35
+# Route 2 (92) - Hightide Town (81)
+92,West,10,81,East,0
+# Route 3 (108) - Sunport City (107)
+108,South,0,107,North,2
+# Hundred Acre Farm (148) - Nebula City (131)
+148,West,1,131,East,0
+# Hundred Acre Safari - Flower Garden (153) - Hundred Acre Safari - Race Track (150)
+153,West,0,150,East,0
+# Hundred Acre Safari - Berry Orchard (154) - Hundred Acre Safari - Race Track (150)
+154,East,0,150,West,0
+# Hundred Acre Safari - Turtle Pond (151) - Hundred Acre Safari - Race Track (150)
+151,South,0,150,North,0
+# Hundred Acre Safari - Hillside (155) - Hundred Acre Safari - Race Track (150)
+155,East,28,150,West,0
+# Hundred Acre Safari - Grazing Fields (152) - Hundred Acre Safari - Race Track (150)
+152,West,28,150,East,0
+# Hundred Acre Safari - Turtle Pond (151) - Hundred Acre Safari - Flower Garden (153)
+151,East,28,153,West,0
+# Hundred Acre Safari - Hillside (155) - Hundred Acre Safari - Flower Garden (153)
+155,South,66,153,North,0
+# Hundred Acre Safari - Grazing Fields (152) - Hundred Acre Safari - Flower Garden (153)
+152,South,0,153,North,0
+# Hundred Acre Safari - Turtle Pond (151) - Hundred Acre Safari - Berry Orchard (154)
+151,West,28,154,East,0
+# Hundred Acre Safari - Hillside (155) - Hundred Acre Safari - Berry Orchard (154)
+155,South,0,154,North,0
+# Hundred Acre Safari - Grazing Fields (152) - Hundred Acre Safari - Berry Orchard (154)
+152,South,0,154,North,66
+# Hundred Acre Safari - Hillside (155) - Hundred Acre Safari - Turtle Pond (151)
+155,East,0,151,West,0
+# Hundred Acre Safari - Grazing Fields (152) - Hundred Acre Safari - Turtle Pond (151)
+152,West,0,151,East,0

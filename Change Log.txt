@@ -1,0 +1,50 @@
+v0.7.1
+- Added an in-game setting to allow disabling animations during a Contest.
+- Moved some code to Berry Core and Dex.
+
+v0.7
+- Pokeblocks plugin now requires the Berry Core and Dex plugin. Berry Data compiling has been moved to that plugin.
+- Added handling to prevent a Pokeblock crash if you aren't using a new save post-installation
+- Added crowd animation when applause meter goes up
+
+v0.6
+- Added an option to mark a contest trainer's pokemon Shiny.
+- Added an option to set a contest trainer's pokemon Form.
+- When a Pokemon has the judge's attention (ready for a combo), the eye-looking symbol in their panel will turn yellow.
+
+v0.5
+- Added support for BW Summary - https://reliccastle.com/resources/569/
+- Added the ability to view contest information when talking to the Move Relearner.
+- Renamed the Lite Blue image to LiteBlue to prevent crash.
+- Fixed pbCreatePokeblock to it doesn't also call pbGainPokeblock by itself (and thus causing issues if used within pbGainPokeblock as intended).
+- Fixed bug where moves that make all other Pokemon nervous said the same message multiple times.
+
+v0.4
+- Added new function that returns the last contest winner in an array version (doesn't show sprite): pbGetLastContestWinner
+- Added the ability to show Mega Evolution if a pokemon is holding a Mega Stone and they max out the Applause Meter.
+	- NOTE: Mega Evolution sprites are not included with Essentials by default, so they are not included in the Sample Project.
+- Added new GameStats for contests
+- Added a basis for Fans, who can give you items based on how many contest participations or wins you have received.
+- Fixed bug related to pausing the crowd
+- Fixed bug where repeated moves weren't getting considered properly for AI moves
+- Fixed the base xPos of sprites to be the defined correctly.
+
+v0.3
+- Changed Wailmer typo in 002_Contests_Trainer_Settings
+- Fixed bug where choosing Cancel when setting up a contest still moved forward with preparations.
+- Fixed bug where AI Moves at higher difficulties are borked
+- Fixed some logic issues with Intro Round heart calculation
+- Made changes to the Animations so now moves that target the user appear properly
+
+v0.2
+-Made changes to Move Functions to be more accurate with released games. Along with this, I edited a couple default move Appeal values in the movesx_contest.txt file:
+-- StartleOtherWithJudgeAttention moves now all have a ContestJam of 1
+	- DARKESTLARIAT
+	- COREENFORCER
+-Added comment descriptions for each Move Function in 010_Move_Functions
+-Added a clearer way to set offsets for sprites X and Y coordinates
+-Made the pbShowLastContestWinner more robust, allowing to you specify a specific rank and/or category
+-Fixed a bug where you couldn't actually move forward with doing a Tough contest.
+
+v0.1
+- Beta Release
