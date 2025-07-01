@@ -1163,7 +1163,6 @@ Pokemon = FORRETRESS,53
 	Item = ROCKYHELMET
 	IVS = 31,31,31,31,31,31
 	EVS = 200,0,56,0,0,252
-
 #-------------------------------
 [RESEARCHER_Jake,Jake,2]
 LoseText = Most impressive.
@@ -1236,7 +1235,6 @@ Pokemon = CRUSTLE,53
 	Item = WEAKNESSPOLICY
 	IVS = 31,31,31,31,31,31
 	EVS = 4,252,0,252,0,0
-
 #-------------------------------
 [RESEARCHER_Max,Max,4]
 LoseText = *Lego Yoda death sound*
@@ -1481,3 +1479,43 @@ Pokemon = SUICUNE,50
 	Item = LEFTOVERS
 	IVS = 31,31,31,31,31,31
 	EVS = 252,0,252,0,0,0
+#-------------------------------
+#------------------------------- ROUTE 4
+#-------------------------------
+[COOLTRAINER_F,Gr4s5_t0uCh3r,1]
+LoseText = I'll never be a real grass toucher...
+Pokemon = HOUNDOOM,50
+    Moves = FLAMETHROWER,CRUNCH,SNARL,WILLOWISP
+	Gender = female
+    AbilityIndex = 0
+Pokemon = BRELOOM,50
+    Moves = FORCEPALM,LEECHSEED,GIGADRAIN,HEADBUTT
+	Gender = female
+    AbilityIndex = 0
+Pokemon = BRELOOM,50
+    Moves = FORCEPALM,LEECHSEED,GIGADRAIN,HEADBUTT
+	Gender = female
+    AbilityIndex = 0
+Pokemon = QWILFISH,50
+    Moves = POISONJAB,PINMISSILE,BRINE,TOXIC
+	Gender = female
+    AbilityIndex = 0
+#-------------------------------
+[COOLTRAINER_F,Gr4s5_t0uCh3r,1]
+LoseText = I'll never be a real grass toucher...
+Pokemon = HOUNDOOM,50
+    Moves = FLAMETHROWER,CRUNCH,SNARL,WILLOWISP
+	Gender = female
+    AbilityIndex = 0
+Pokemon = BRELOOM,50
+    Moves = FORCEPALM,LEECHSEED,GIGADRAIN,HEADBUTT
+	Gender = female
+    AbilityIndex = 0
+Pokemon = BRELOOM,50
+    Moves = FORCEPALM,LEECHSEED,GIGADRAIN,HEADBUTT
+	Gender = female
+    AbilityIndex = 0
+Pokemon = QWILFISH,50
+    Moves = POISONJAB,PINMISSILE,BRINE,TOXIC
+	Gender = female
+    AbilityIndex = 0

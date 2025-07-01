@@ -469,3 +469,27 @@ Land,20
 	30,RHYHORN,25,30
 	5,NIDORANfE,10,15
 	5,NIDORANmA,10,15
+#-------------------------------
+[160] # Route 4
+Land,10
+    30,ODDISH,32,38
+    25,EKANS,33,39
+    25,SHINX,33,39
+    10,ZANGOOSE,36,42
+    10,SEVIPER,36,42
+#-------------------------------
+[161] # Deepvine Jungle
+Land,10
+    30,BELLSPROUT,35,40
+    20,YANMA,35,40
+    20,TANGELA,35,40
+	20,MANKEY,35,40
+    10,TOUCANNON,38,43    
+#-------------------------------
+[162] # Deepvine Underground
+Cave,10
+    35,PARAS,35,40
+    20,FOONGUS,35,40
+    20,SHROOMISH,35,40
+    15,CARNIVINE,35,40
+    10,HERACROSS,38,53
