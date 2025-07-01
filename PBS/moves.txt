@@ -965,13 +965,13 @@ Description = The user tears the target along with the space around it. Critical
 Name = Dragon Hammer
 Type = DRAGON
 Category = Physical
-Power = 90
+Power = 150
 Accuracy = 100
 TotalPP = 15
 Target = NearOther
-FunctionCode = None
+FunctionCode = RecoilHalfOfDamageDealt
 Flags = Contact,CanProtect,CanMirrorMove
-Description = The user uses its body like a hammer to attack the target and inflict damage.
+Description = The user uses its body like a hammer to attack the target and inflict damage.  The user also takes terrible damage.
 #-------------------------------
 [DRAGONPULSE]
 Name = Dragon Pulse

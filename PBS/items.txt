@@ -1079,7 +1079,7 @@ NamePlural = Mental Herbs
 Pocket = 1
 Price = 4000
 BPPrice = 15
-Flags = Fling_10
+Flags = Berry,Fling_10
 Description = An item to be held by a Pokémon. It snaps the holder out of infatuation. It can be used only once.
 #-------------------------------
 [WHITEHERB]
@@ -1088,7 +1088,7 @@ NamePlural = White Herbs
 Pocket = 1
 Price = 4000
 BPPrice = 15
-Flags = Fling_10
+Flags = Berry,Fling_10
 Description = An item to be held by a Pokémon. It restores any lowered stat in battle. It can be used only once.
 #-------------------------------
 [POWERHERB]
@@ -1097,7 +1097,7 @@ NamePlural = Power Herbs
 Pocket = 1
 Price = 4000
 BPPrice = 15
-Flags = Fling_10
+Flags = Berry,Fling_10
 Description = A single-use item to be held by a Pokémon. It allows the immediate use of a move that charges up first.
 #-------------------------------
 [ABSORBBULB]
@@ -5176,8 +5176,8 @@ NamePlural = HM05s
 Pocket = 4
 Price = 0
 FieldUse = HM
-Move = WATERFALL
-Description = The user charges at the target and may make it flinch. It can also be used to climb a waterfall.
+Move = FLASH
+Description = The user flashes a light that cuts the target's accuracy. It can also be used to illuminate caves.
 #-------------------------------
 [HM06]
 Name = HM06
@@ -5187,6 +5187,15 @@ Price = 0
 FieldUse = HM
 Move = ROCKSMASH
 Description = The user attacks with a punch that can shatter a rock. It may also lower the foe's Defense stat.
+#-------------------------------
+[HM07]
+Name = HM05
+NamePlural = HM05s
+Pocket = 4
+Price = 0
+FieldUse = HM
+Move = WATERFALL
+Description = The user charges at the target and may make it flinch. It can also be used to climb a waterfall.
 #-------------------------------
 [HM08]
 Name = HM08
