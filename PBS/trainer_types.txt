@@ -72,9 +72,9 @@ BattleBGM = ORAS 072 Battle! (Team Magma _ Aqua Leader)
 VictoryBGM = ORAS 026 Victory! (Team Magma - Team Aqua)
 SkillLevel = 200
 #-------------------------------
-[RESEARCHER_Max]
+[RESEARCHER_Nia]
 Name = Researcher
-Gender = Male
+Gender = Female
 BaseMoney = 64
 BattleBGM = ORAS 025 Battle! (Team Magma - Team Aqua)
 VictoryBGM = ORAS 049 Victory! (Gym Leader)
@@ -172,6 +172,20 @@ Gender = Male
 BaseMoney = 64
 BattleBGM = BW 144 Battle! (Gym Leader)
 VictoryBGM = Battle victory trainer
+SkillLevel = 200
+#-------------------------------
+[PYRAMID]
+Name = PYRAMID
+Gender = Male
+BaseMoney = 64
+SkillLevel = 64
+#-------------------------------
+[LEADER_Harry]
+Name = Leader
+Gender = Male
+BaseMoney = 64
+BattleBGM = ORAS 048 Battle! (Gym Leader)
+VictoryBGM = ORAS 049 Victory! (Gym Leader)
 SkillLevel = 200
 #-------------------------------
 #-------------------------------

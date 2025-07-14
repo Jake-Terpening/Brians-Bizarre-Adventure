@@ -190,6 +190,16 @@ FieldUse = OnPokemon
 Flags = EvolutionStone,Fling_30
 Description = A peculiar stone that makes certain species of Pokémon evolve. It has a snowflake pattern.
 #-------------------------------
+[TRADESTONE]
+Name = Trade Stone
+NamePlural = Trade Stones
+Pocket = 1
+Price = 3000
+BPPrice = 5
+FieldUse = OnPokemon
+Flags = EvolutionStone,Fling_30
+Description = A peculiar stone that makes certain species of Pokémon evolve. 
+#-------------------------------
 [SWEETAPPLE]
 Name = Sweet Apple
 NamePlural = Sweet Apples
@@ -4328,8 +4338,8 @@ Price = 3000
 BPPrice = 32
 FieldUse = TM
 Flags = Fling_65
-Move = MIMIC
-Description = The user makes a swift attack on the target's legs, which lowers the target's Speed stat.
+Move = RETURN
+Description = A full-power attack that grows more powerful the more the user likes its Trainer.
 #-------------------------------
 [TM28]
 Name = TM28
@@ -5109,8 +5119,8 @@ Price = 2000
 BPPrice = 40
 FieldUse = TM
 Flags = Fling_40
-Move = ROCKSMASH
-Description = The user attacks with a punch that may lower the target's Defense stat.
+Move = MIMIC
+Description = The user copies the move last used by the foe. The move can be used until the user is switched out.
 #-------------------------------
 [TM99]
 Name = TM99
@@ -5707,7 +5717,7 @@ Description = If held by a Pokémon, it raises its critical-hit ratio in a pinch
 Name = Starf Berry
 NamePlural = Starf Berries
 Pocket = 5
-Price = 20
+Price = 2000
 Flags = Berry,Fling_10,NaturalGift_PSYCHIC_100
 Description = If held by a Pokémon, it sharply raises one of its stats in a pinch.
 #-------------------------------
