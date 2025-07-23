@@ -484,7 +484,7 @@ Land,10
     20,YANMA,35,40
     20,TANGELA,35,40
 	20,MANKEY,35,40
-    10,TOUCANNON,38,43    
+    10,SWELLOW,38,43    
 #-------------------------------
 [162] # Deepvine Underground
 Cave,10
@@ -496,11 +496,64 @@ Cave,10
 #-------------------------------
 [163] # Route 5
 Land,10
-    30,STARLY,32,38
+    30,PIDGEY,32,38
     20,LOTAD,33,39
     20,SURSKIT,33,39
-    20,HOPPIP,33,39
+    20,TAILLOW,33,39
     10,SCYTHER,36,42
+Water,2
+    25,WOOPER,33,39
+    25,LOTAD,33,39
+	20,POLIWAG,33,39
+	20,BARBOACH,33,39
+	10,FEEBAS,30,36
+OldRod
+    60,CORPHISH,15,19
+    40,GOLDEEN,15,19
+GoodRod
+    60,FINNEON,20,24
+    40,CORPHISH,20,24
+SuperRod
+    60,BARBOACH,25,29
+    40,FEEBAS,25,29
+#-------------------------------
+[171] # Route 6
+Land,10
+    30,LOTAD,33,39	
+    20,PIDGEY,32,38
+    20,SURSKIT,33,39
+	20,HOPPIP,33,39
+    10,LOMBRE,35,41
+#-------------------------------
+[172] # Lotad Lake
+Land,10
+    60,LOTAD,30,40
+    30,LOMBRE,35,45
+    10,LUDICOLO,40,50
+Water,2
+    60,LOTAD,30,40
+    30,LOMBRE,35,45
+    10,LUDICOLO,40,50
+OldRod
+    60,LOTAD,30,40
+    30,LOMBRE,35,45
+    10,LUDICOLO,40,50
+GoodRod
+    60,LOTAD,30,40
+    30,LOMBRE,35,45
+    10,LUDICOLO,40,50
+SuperRod
+    60,LOTAD,30,40
+    30,LOMBRE,35,45
+    10,LUDICOLO,40,50
+#-------------------------------
+[175] # Route 7
+Land,10
+    40,RATTATA,32,38
+    20,SPEAROW,33,39
+    15,EXEGGCUTE,33,39
+    15,SANDSHREW,33,39
+    10,RATICATE,36,42
 Water,2
     25,WOOPER,33,39
     25,LOTAD,33,39

@@ -1742,13 +1742,13 @@ Pokemon = EXEGGUTOR,58
     Moves = DREAMEATER,GIGADRAIN,SLEEPPOWDER,PSYCHIC
     AbilityIndex = 2
     Gender = male
-	Item = BIGROOT
+	Item = SITRUSBERRY
 	IVS = 31,31,31,31,31,31
 	EVS = 128,0,0,132,252,0
 Pokemon = TANGROWTH,58
     Moves = LEECHSEED,BIND,SYNTHESIS,GIGADRAIN
     AbilityIndex = 1
-    Gender = male
+    Gender = female
 	Item = ROCKYHELMET
 	IVS = 31,31,31,31,31,31
 	EVS = 100,0,252,0,0,156
@@ -1762,7 +1762,7 @@ Pokemon = CRADILY,59
 Pokemon = LUDICOLO,59
     Moves = HYDROPUMP,ICEBEAM,RAINDANCE,GIGADRAIN
     AbilityIndex = 0
-    Gender = male
+    Gender = female
 	Item = DAMPROCK
 	IVS = 31,31,31,31,31,31
 	EVS = 152,0,0,100,252,0
@@ -1781,3 +1781,100 @@ Pokemon = ROSERADE,62
 	Item = BLACKSLUDGE
 	IVS = 31,31,31,31,31,31
 	EVS = 56,0,0,200,252,0
+#-------------------------------
+#------------------------------- ROUTE 6
+#-------------------------------
+[FISHERMAN,James,1]
+LoseText = Bah! Not my day...
+Pokemon = LOTAD,50
+    Moves = RAINDANCE,GIGADRAIN,BUBBLEBEAM,NATUREPOWER
+    AbilityIndex = 0
+Pokemon = LOTAD,50
+    Moves = RAINDANCE,GIGADRAIN,BUBBLEBEAM,NATUREPOWER
+    AbilityIndex = 0
+Pokemon = LOTAD,50
+    Moves = RAINDANCE,GIGADRAIN,BUBBLEBEAM,NATUREPOWER
+    AbilityIndex = 0
+Pokemon = LOTAD,50
+    Moves = RAINDANCE,GIGADRAIN,BUBBLEBEAM,NATUREPOWER
+    AbilityIndex = 0
+#-------------------------------
+#------------------------------- ROUTE 7
+#-------------------------------
+[YOUNGSTER,Ratland,1]
+LoseText = This is rat, and rat is this...
+Pokemon = RATTATA,51
+    Moves = SUPERFANG,BITE,ENDEAVOR,QUICKATTACK
+    AbilityIndex = 0
+    Gender = male
+Pokemon = FEAROW,51
+    Moves = DRILLPECK,TAKEDOWN,AGILITY,FOCUSENERGY
+    AbilityIndex = 0
+Pokemon = RATICATE,52
+    Moves = HYPERFANG,CRUNCH,ENDEAVOR,QUICKATTACK
+    AbilityIndex = 0
+    Gender = male
+#-------------------------------
+[YOUNGSTER,Dani,1]
+LoseText = Looks like Rattata was actually death...
+Pokemon = RATTATA,51
+    Moves = SUPERFANG,BITE,ENDEAVOR,QUICKATTACK
+    AbilityIndex = 0
+    Gender = male
+Pokemon = EXEGGUTOR,52
+    Moves = SEEDBOMB,EGGBOMB,EXTRASENSORY,HYPNOSIS
+    AbilityIndex = 0
+    Gender = male
+Pokemon = RATTATA,53
+    Moves = SUPERFANG,BITE,ENDEAVOR,QUICKATTACK
+    AbilityIndex = 0
+    Gender = male
+#-------------------------------
+[YOUNGSTER,Chungus,1]
+LoseText = Not big enough I guess...
+Pokemon = RATTATA,50
+    Moves = SUPERFANG,BITE,ENDEAVOR,QUICKATTACK
+    AbilityIndex = 0
+    Gender = male
+Pokemon = RATTATA,50
+    Moves = SUPERFANG,BITE,ENDEAVOR,QUICKATTACK
+    AbilityIndex = 0
+Pokemon = RATTATA,50
+    Moves = SUPERFANG,BITE,ENDEAVOR,QUICKATTACK
+    AbilityIndex = 0
+    Gender = male
+Pokemon = RATICATE,52
+    Moves = HYPERFANG,CRUNCH,ENDEAVOR,QUICKATTACK
+    AbilityIndex = 0
+    Gender = male
+#-------------------------------
+[YOUNGSTER,Genghis,1]
+LoseText = Not big enough I guess...
+Pokemon = FEAROW,51
+    Moves = DRILLPECK,TAKEDOWN,AGILITY,FOCUSENERGY
+    AbilityIndex = 0
+Pokemon = RATTATA,50
+    Moves = SUPERFANG,BITE,ENDEAVOR,QUICKATTACK
+    AbilityIndex = 0
+Pokemon = RATICATE,52
+    Moves = HYPERFANG,CRUNCH,ENDEAVOR,QUICKATTACK
+    AbilityIndex = 0
+#-------------------------------
+[GENTLEMAN,Joey,1]
+LoseText = Not big enough I guess...
+Pokemon = SANDSLASH,52
+    Moves = SLASH,DIG,ROLLOUT,DEFENSECURL
+    AbilityIndex = 0
+Pokemon = FEAROW,52
+    Moves = DRILLPECK,TAKEDOWN,AGILITY,FOCUSENERGY
+    AbilityIndex = 0
+Pokemon = EXEGGUTOR,52
+    Moves = SEEDBOMB,EGGBOMB,EXTRASENSORY,HYPNOSIS
+    AbilityIndex = 0
+#-------------------------------
+#------------------------------- RIVER MILL
+#-------------------------------
+[ENGINEER,Miller,1]
+LoseText = Not big enough I guess...
+Pokemon = GYARADOS,50
+    Moves = DRAGONDANCE,EARTHQUAKE,AQUATAIL,ICEFANG
