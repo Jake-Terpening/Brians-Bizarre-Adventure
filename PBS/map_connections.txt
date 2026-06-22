@@ -38,18 +38,6 @@
 47,East,8,52,West,0
 # Route 8 (69) - Safari Zone outside (66)
 69,North,0,66,South,10
-# Beach (79) - Route 1 (80)
-79,North,0,80,South,0
-# Route 1 (80) - Hightide Town (81)
-80,North,0,81,South,15
-# Route 2 (92) - Route 1 (80)
-92,South,0,80,North,35
-# Route 2 (92) - Hightide Town (81)
-92,West,10,81,East,0
-# Route 3 (108) - Sunport City (107)
-108,South,0,107,North,2
-# Hundred Acre Farm (148) - Nebula City (131)
-148,West,1,131,East,0
 # Hundred Acre Safari - Flower Garden (153) - Hundred Acre Safari - Race Track (150)
 153,West,0,150,East,0
 # Hundred Acre Safari - Berry Orchard (154) - Hundred Acre Safari - Race Track (150)
@@ -62,17 +50,65 @@
 152,West,28,150,East,0
 # Hundred Acre Safari - Turtle Pond (151) - Hundred Acre Safari - Flower Garden (153)
 151,East,28,153,West,0
-# Hundred Acre Safari - Hillside (155) - Hundred Acre Safari - Flower Garden (153)
-155,South,66,153,North,0
-# Hundred Acre Safari - Grazing Fields (152) - Hundred Acre Safari - Flower Garden (153)
-152,South,0,153,North,0
 # Hundred Acre Safari - Turtle Pond (151) - Hundred Acre Safari - Berry Orchard (154)
 151,West,28,154,East,0
-# Hundred Acre Safari - Hillside (155) - Hundred Acre Safari - Berry Orchard (154)
-155,South,0,154,North,0
-# Hundred Acre Safari - Grazing Fields (152) - Hundred Acre Safari - Berry Orchard (154)
-152,South,0,154,North,66
 # Hundred Acre Safari - Hillside (155) - Hundred Acre Safari - Turtle Pond (151)
 155,East,0,151,West,0
 # Hundred Acre Safari - Grazing Fields (152) - Hundred Acre Safari - Turtle Pond (151)
 152,West,0,151,East,0
+# Hundred Acre Safari - Grazing Fields (152) - Hundred Acre Safari - Flower Garden (153)
+152,South,0,153,North,0
+# Hundred Acre Safari - Grazing Fields (152) - Hundred Acre Safari - Berry Orchard (154)
+152,South,0,154,North,66
+# Hundred Acre Safari - Hillside (155) - Hundred Acre Safari - Flower Garden (153)
+155,South,66,153,North,0
+# Hundred Acre Safari - Hillside (155) - Hundred Acre Safari - Berry Orchard (154)
+155,South,0,154,North,0
+# Thunderbog Village (95) - Route 5 (163)
+95,West,0,163,East,22
+# Route 7 (175) - Route 5 (163)
+175,North,33,163,South,0
+# Arborilog Town (164) - Route 5 (163)
+164,East,0,163,West,0
+# Lotad Lake (172) - Route 5 (163)
+172,South,0,163,North,0
+# Route 6 (171) - Route 5 (163)
+171,East,38,163,West,0
+# Route 2 (92) - Thunderbog Village (95)
+92,North,32,95,South,0
+# Bike Route (106) - Thunderbog Village (95)
+106,West,20,95,East,0
+# Route 1 (80) - Route 2 (92)
+80,North,35,92,South,0
+# Hightide Town (81) - Route 2 (92)
+81,East,0,92,West,10
+# Beach (79) - Route 1 (80)
+79,North,0,80,South,0
+# Hightide Town (81) - Route 1 (80)
+81,South,15,80,North,0
+# Route 7 (175) - Hightide Town (81)
+175,South,0,81,North,16
+# Arborilog Town (164) - Route 7 (175)
+164,South,14,175,North,0
+# Lotad Lake (172) - Arborilog Town (164)
+172,West,38,164,East,0
+# Route 6 (171) - Arborilog Town (164)
+171,South,0,164,North,20
+# Route 6 (171) - Lotad Lake (172)
+171,East,0,172,West,0
+# Sunport City (107) - Bike Route (106)
+107,West,0,106,East,17
+# Nebula City (131) - Bike Route (106)
+131,South,0,106,North,21
+# Route 3 (108) - Sunport City (107)
+108,South,0,107,North,2
+# Hundred Acre Farm (148) - Route 3 (108)
+148,South,1,108,North,0
+# Route 8 (176) - Nebula City (131)
+176,South,0,131,North,30
+# Hundred Acre Farm (148) - Nebula City (131)
+148,West,2,131,East,0
+# Route 4 (160) - Nebula City (131)
+160,East,0,131,West,0
+# Route 4 (160) - Route 8 (176)
+160,North,65,176,South,0
