@@ -24,6 +24,14 @@ BattleBGM = ORAS 048 Battle! (Gym Leader)
 VictoryBGM = ORAS 049 Victory! (Gym Leader)
 SkillLevel = 200
 #-------------------------------
+[POKEMONTRAINER_Ali]
+Name = Pokémon Trainer
+Gender = Male
+BaseMoney = 64
+BattleBGM = ORAS 062 Battle! (Brendan-May)
+VictoryBGM = Battle victory trainer
+SkillLevel = 200
+#-------------------------------
 [ASSMANCER]
 Name = Assmancer
 Gender = Male

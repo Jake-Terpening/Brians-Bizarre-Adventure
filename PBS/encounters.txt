@@ -52,8 +52,8 @@ LandNight,21
 Land,21
     50,RATTATA,12,15
     30,POOCHYENA,11,15
-    10,SHINX,10,12
     10,SHINX,10,11
+    10,SHINX,10,12
 Water,2
     60,MAGIKARP,7,10
     30,GOLDEEN,11,14
@@ -87,8 +87,8 @@ Land,21
     20,CATERPIE,10
     20,SUNKERN,12
     20,WEEDLE,10
-    15,PIDGEY,10,14
     15,PIDGEY,12,14
+    15,PIDGEY,10,14
     5,KAKUNA,10
     5,METAPOD,10
 LandNight,21
@@ -194,19 +194,19 @@ RockSmash,50
 #-------------------------------
 [049] # Rock Cave 1F
 Cave,5
-    20,MAGNETON,14,16
     20,MAGNETON,14,17
-    20,NOSEPASS,14,15
+    20,MAGNETON,14,16
     20,NOSEPASS,13,14
+    20,NOSEPASS,14,15
     10,GEODUDE,13,15
     10,MAWILE,14,16
 #-------------------------------
 [050] # Rock Cave B1F
 Cave,5
-    20,MAGNETON,14,16
     20,MAGNETON,14,17
-    20,NOSEPASS,14,15
+    20,MAGNETON,14,16
     20,NOSEPASS,13,14
+    20,NOSEPASS,14,15
     10,BURMY,14,16
     10,GEODUDE,13,15
 #-------------------------------
@@ -234,8 +234,8 @@ Land,21
     20,RHYHORN,16,18
     10,AIPOM,14,17
     10,GIRAFARIG,16,17
-    10,VENONAT,15,17
     10,VENONAT,15,18
+    10,VENONAT,15,17
     5,HERACROSS,15,17
     5,TAUROS,15,16
     4,PINSIR,16
@@ -266,13 +266,13 @@ Land,21
     20,MAREEP,16,18
     20,ODDISH,15,17
     13,BONSLY,14,16
-    10,DITTO,15,17
     10,DITTO,16,18
+    10,DITTO,15,17
     10,LOTAD,15,18
     10,LOTAD,15,17
     5,BONSLY,14,17
-    1,BONSLY,15,16
     1,BONSLY,15
+    1,BONSLY,15,16
 Water,2
     60,TENTACOOL,14,19
     30,MANTYKE,15,16
@@ -426,15 +426,15 @@ SuperRod
 #-------------------------------
 [150] # Hundred Acre Safari - Race Track
 Land,20
-	60,PONYTA,25,30
-	30,TAUROS,25,35
-	10,DONPHAN,30,35	
+    60,PONYTA,25,30
+    30,TAUROS,25,35
+    10,DONPHAN,30,35
 #-------------------------------
 [151] # Hundred Acre Safari - Turtle Pond
 Land,20
-	60,SHUCKLE,25,30
-	30,TURTWIG,10,15
-	10,CHANSEY,30,40
+    60,SHUCKLE,25,30
+    30,TURTWIG,10,15
+    10,CHANSEY,30,40
 Water,20
     60,SQUIRTLE,10,15
     40,PSYDUCK,20,30
@@ -447,44 +447,44 @@ SuperRod
 #-------------------------------
 [152] # Hundred Acre Safari - Grazing Fields
 Land,20
-	60,MAREEP,10,15
-	30,MILTANK,25,35
-	10,ZOROARK,30,40
+    60,MAREEP,10,15
+    30,MILTANK,25,35
+    10,ZOROARK,30,40
 #-------------------------------
 [153] # Hundred Acre Safari - Flower Garden
 Land,20
-	60,ROSELIA,25,30
-	30,COMBEE,15,20
-	10,EEVEE,20,25
+    60,ROSELIA,25,30
+    30,COMBEE,15,20
+    10,EEVEE,20,25
 #-------------------------------
 [154] # Hundred Acre Safari - Berry Orchard
 Land,20
-	60,CHERUBI,15,20
-	30,BELLSPROUT,15,20
-	10,DITTO,20,25
+    60,CHERUBI,15,20
+    30,BELLSPROUT,15,20
+    10,DITTO,20,25
 #-------------------------------
 [155] # Hundred Acre Safari - Hillside
 Land,20
-	60,SKIDDO,25,30
-	30,RHYHORN,25,30
-	5,NIDORANfE,10,15
-	5,NIDORANmA,10,15
+    60,SKIDDO,25,30
+    30,RHYHORN,25,30
+    5,NIDORANfE,10,15
+    5,NIDORANmA,10,15
 #-------------------------------
 [160] # Route 4
 Land,10
     30,ODDISH,32,38
     25,EKANS,33,39
     25,SHINX,33,39
-    10,ZANGOOSE,36,42
     10,SEVIPER,36,42
+    10,ZANGOOSE,36,42
 #-------------------------------
 [161] # Deepvine Jungle
 Land,10
     30,BELLSPROUT,35,40
-    20,YANMA,35,40
+    20,MANKEY,35,40
     20,TANGELA,35,40
-	20,MANKEY,35,40
-    10,SWELLOW,38,43    
+    20,YANMA,35,40
+    10,SWELLOW,38,43
 #-------------------------------
 [162] # Deepvine Underground
 Cave,10
@@ -502,11 +502,11 @@ Land,10
     20,TAILLOW,33,39
     10,SCYTHER,36,42
 Water,2
-    25,WOOPER,33,39
     25,LOTAD,33,39
-	20,POLIWAG,33,39
-	20,BARBOACH,33,39
-	10,FEEBAS,30,36
+    25,WOOPER,33,39
+    20,BARBOACH,33,39
+    20,POLIWAG,33,39
+    10,FEEBAS,30,36
 OldRod
     60,CORPHISH,15,19
     40,GOLDEEN,15,19
@@ -519,10 +519,10 @@ SuperRod
 #-------------------------------
 [171] # Route 6
 Land,10
-    30,LOTAD,33,39	
+    30,LOTAD,33,39
+    20,HOPPIP,33,39
     20,PIDGEY,32,38
     20,SURSKIT,33,39
-	20,HOPPIP,33,39
     10,LOMBRE,35,41
 #-------------------------------
 [172] # Lotad Lake
@@ -555,11 +555,11 @@ Land,10
     15,SANDSHREW,33,39
     10,RATICATE,36,42
 Water,2
-    25,WOOPER,33,39
     25,LOTAD,33,39
-	20,POLIWAG,33,39
-	20,BARBOACH,33,39
-	10,FEEBAS,30,36
+    25,WOOPER,33,39
+    20,BARBOACH,33,39
+    20,POLIWAG,33,39
+    10,FEEBAS,30,36
 OldRod
     60,CORPHISH,15,19
     40,GOLDEEN,15,19
@@ -569,3 +569,100 @@ GoodRod
 SuperRod
     60,BARBOACH,25,29
     40,FEEBAS,25,29
+#-------------------------------
+[176] # Route 8
+Land,10
+    30,MACHOP,32,38
+    30,TYROGUE,33,39
+	20,RATICATE,36,42
+    10,THROH,33,39
+    10,SAWK,33,39
+#-------------------------------
+[177] # Coldcap Mountain 1F
+Cave,5
+    15,GEODUDE,40,45
+	10,GRAVELER,40,45
+	15,ARON,40,45
+	10,LAIRON,40,45
+	15,ROGGENROLA,40,45
+	10,BOLDORE,40,45
+	15,ONIX,40,45
+	10,MAWILE,40,45
+#-------------------------------
+[178] # Coldcap Mountain 2F
+Cave,5
+    15,GEODUDE,40,45
+	10,GRAVELER,40,45
+	15,ARON,40,45
+	10,LAIRON,40,45
+	15,ROGGENROLA,40,45
+	10,BOLDORE,40,45
+	15,ONIX,40,45
+	10,MAWILE,40,45
+#-------------------------------
+[179] # Coldcap Mountain 3F
+Cave,5
+    15,GEODUDE,40,45
+	10,GRAVELER,40,45
+	15,ARON,40,45
+	10,LAIRON,40,45
+	15,ROGGENROLA,40,45
+	10,BOLDORE,40,45
+	15,ONIX,40,45
+	10,MAWILE,40,45
+#-------------------------------
+[180] # Coldcap Mountain 4F
+Cave,5
+    15,GEODUDE,40,45
+	10,GRAVELER,40,45
+	15,ARON,40,45
+	10,LAIRON,40,45
+	15,ROGGENROLA,40,45
+	10,BOLDORE,40,45
+	15,ONIX,40,45
+	10,MAWILE,40,45
+#-------------------------------
+[181] # Coldcap Mountain 5F
+Cave,5
+    15,GEODUDE,40,45
+	10,GRAVELER,40,45
+	15,ARON,42,46
+	10,LAIRON,42,46
+	15,ROGGENROLA,40,45
+	10,BOLDORE,40,45
+	15,ONIX,40,45
+	10,MAWILE,40,45
+#-------------------------------
+[182] # Coldcap Mountain 6F
+Cave,5
+    15,SNORUNT,40,45
+	10,GLALIE,40,45
+	20,SNEASEL,40,45
+	20,CRYOGONAL,42,46
+	10,ARON,42,46
+	10,LAIRON,42,46
+	15,RIOLU,40,45
+#-------------------------------
+[183] # Coldcap Mountain 7F
+Cave,5
+    15,SNORUNT,40,45
+	10,GLALIE,40,45
+	20,SNEASEL,40,45
+	20,CRYOGONAL,42,46
+	10,ARON,42,46
+	10,LAIRON,42,46
+	15,RIOLU,40,45
+#-------------------------------
+[184] # Coldcap Mountain 8F
+Cave,5
+    15,SNORUNT,40,45
+	10,GLALIE,40,45
+	20,SNEASEL,40,45
+	20,CRYOGONAL,42,46
+	10,ARON,42,46
+	10,LAIRON,42,46
+	15,RIOLU,40,45
+	
+	
+	
+	
